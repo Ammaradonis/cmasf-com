@@ -1,0 +1,2495 @@
+{
+  "page": {
+    "url": "https://www.cmasf.com/home",
+    "title": "California Martial Athletics",
+    "meta_description": "",
+    "canonical": "https://www.cmasf.com/",
+    "crawl_timestamp": "2026-05-08T21:26:26.940Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "Squarespace"
+    ],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.cmasf.com/home",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275586995,
+          "endTime": 1778275587304,
+          "duration": 309
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275586997,
+          "endTime": 1778275587136,
+          "duration": 139
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275574760&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115616986~115938466~115938469~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fabout&dt=General%202%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&epn.percent_scrolled=90&_et=10060&tfd=13539",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275574760&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=3&tag_exp=0~115616986~115938466~115938469~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fabout&dt=General%202%20%E2%80%94%20California%20Martial%20Athletics&en=user_engagement&_et=2025&tfd=13542",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://performance.squarespace.com/api/v1/records",
+        "method": "POST",
+        "status": 0,
+        "type": "ping",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://o109687.ingest.us.sentry.io/api/4509084831580160/envelope/?sentry_version=7&sentry_key=9fefc56cc6d4ad4ceaa4e5ab9b2d34c8&sentry_client=sentry.javascript.browser%2F9.46.0",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=2tD_-KSPoTD9yBEA&ver=2&cmt=0&fs=0&rt=9.291&euri=https%3A%2F%2Fwww.cmasf.com%2F&lact=9439&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=de_DE&cr=AT&len=135&fexp=v1%2C24004644%2C494890%2C26510701%2C53408%2C34656%2C47716%2C58314%2C18644%2C117689%2C9252%2C3479%2C13030%2C6258%2C16948%2C69796%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C11038%2C1977%2C13111%2C2977%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C6355%2C5115%2C13160%2C452%2C21068%2C10985%2C24046%2C3305%2C1352%2C954%2C2754%2C9842%2C2932%2C8141%2C1212%2C2195%2C1626%2C8030%2C10591%2C6118%2C7057%2C288%2C1549%2C9514%2C8954%2C2885%2C3682%2C178%2C4508%2C2430%2C3580%2C3%2C369%2C2814%2C2629%2C347%2C1969%2C3773%2C2826%2C22%2C2118%2C7796&feature=oembed&muted=0&docid=P6LALdRQUiw",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Anton:ital,wght@0,400",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587598,
+          "endTime": 1778275587716,
+          "duration": 118
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587598,
+          "endTime": 1778275587600,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-a38266454b6c35f7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587601,
+          "endTime": 1778275587603,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-32c062409c718299-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587605,
+          "endTime": 1778275587697,
+          "duration": 92
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f2a1f6ec9a41489-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587605,
+          "endTime": 1778275587606,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-497d1337e70309e7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587606,
+          "endTime": 1778275587607,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587608,
+          "endTime": 1778275587610,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-a5542c2814272dd7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587610,
+          "endTime": 1778275587612,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-6a459dad7444b31d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587613,
+          "endTime": 1778275588891,
+          "duration": 1278
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-cd17439efa931e38-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587613,
+          "endTime": 1778275588834,
+          "duration": 1221
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587614,
+          "endTime": 1778275587615,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-322f9d2d9aca764c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587616,
+          "endTime": 1778275587621,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587621,
+          "endTime": 1778275587622,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-c704c05d211c44da-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587623,
+          "endTime": 1778275587624,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/a5dffbea-1efe-41dc-906d-6fe484d3e1c8_703/website.components.button.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587624,
+          "endTime": 1778275587691,
+          "duration": 67
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587625,
+          "endTime": 1778275587715,
+          "duration": 90
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587625,
+          "endTime": 1778275587696,
+          "duration": 71
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587625,
+          "endTime": 1778275587718,
+          "duration": 93
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/website.components.video.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587626,
+          "endTime": 1778275587719,
+          "duration": 93
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587626,
+          "endTime": 1778275587722,
+          "duration": 96
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/a5dffbea-1efe-41dc-906d-6fe484d3e1c8_703/website.components.button.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587626,
+          "endTime": 1778275587894,
+          "duration": 268
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-parallax.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587626,
+          "endTime": 1778275587893,
+          "duration": 267
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587626,
+          "endTime": 1778275588044,
+          "duration": 418
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.map/b47261f3-0538-4fd5-aa5b-a12f2f56f1f1_919/website.components.map.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587626,
+          "endTime": 1778275588047,
+          "duration": 421
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-liquid.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587627,
+          "endTime": 1778275588053,
+          "duration": 426
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/website.components.video.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587627,
+          "endTime": 1778275588586,
+          "duration": 959
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/748.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587627,
+          "endTime": 1778275588555,
+          "duration": 928
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/8018.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587627,
+          "endTime": 1778275588265,
+          "duration": 638
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587628,
+          "endTime": 1778275588266,
+          "duration": 638
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.shared.constants.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587628,
+          "endTime": 1778275588267,
+          "duration": 639
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-film-grain.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587628,
+          "endTime": 1778275588309,
+          "duration": 681
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/4032.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587629,
+          "endTime": 1778275588399,
+          "duration": 770
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-lines.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587629,
+          "endTime": 1778275588403,
+          "duration": 774
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587630,
+          "endTime": 1778275588404,
+          "duration": 774
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/9882.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587631,
+          "endTime": 1778275588405,
+          "duration": 774
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-circles.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587632,
+          "endTime": 1778275588406,
+          "duration": 774
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587632,
+          "endTime": 1778275588407,
+          "duration": 775
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587632,
+          "endTime": 1778275587634,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587634,
+          "endTime": 1778275587637,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-7P06BER3QJ",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587638,
+          "endTime": 1778275587916,
+          "duration": 278
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587638,
+          "endTime": 1778275587642,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.24618f321442829cf50ddb341e64781c.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587642,
+          "endTime": 1778275587643,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587874,
+          "endTime": 1778275587875,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587876,
+          "endTime": 1778275587877,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587879,
+          "endTime": 1778275587881,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587881,
+          "endTime": 1778275587885,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/2dbda022-175d-4af5-bd00-c6ae5c65e3aa/CMASF-10.jpg?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587886,
+          "endTime": 1778275588310,
+          "duration": 424
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/27cb7b4b-a24e-41b6-ad01-72e72da21e10/CMA-2024-Promo-02.00_01_21_06.Still010.jpg?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587886,
+          "endTime": 1778275588633,
+          "duration": 747
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c5e794d1-e22b-4820-8068-25422364d37e/TBA+logo.jpg?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587886,
+          "endTime": 1778275588622,
+          "duration": 736
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ca377844-d071-4374-b110-832d5f4f7a51/CMASF-05.jpg?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587887,
+          "endTime": 1778275587888,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275587889,
+          "endTime": 1778275587890,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/7706.89c4bf0f2dd75fdeeefc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589542,
+          "endTime": 1778275589732,
+          "duration": 190
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/section-divider.2cf999b0651cf5bf496a.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589545,
+          "endTime": 1778275589724,
+          "duration": 179
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/video-background.b4c2ba98023c48e93617.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589549,
+          "endTime": 1778275589726,
+          "duration": 177
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/1480.6a039b1d3b8174bc9169.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589549,
+          "endTime": 1778275589551,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/user-items-list-carousel.bb92046e1041e4a78dd6.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589551,
+          "endTime": 1778275589553,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/43300-6442d5ae90c0ccb6-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589658,
+          "endTime": 1778275589734,
+          "duration": 76
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/99209-ed42d6036eafac89-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589658,
+          "endTime": 1778275589739,
+          "duration": 81
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12354-ac811bfab2447453-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589668,
+          "endTime": 1778275589743,
+          "duration": 75
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/37231-b90ed72cfa0f5072-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589678,
+          "endTime": 1778275589746,
+          "duration": 68
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12358-0ae5b672dfcacd40-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589691,
+          "endTime": 1778275589693,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/3035-374c796a798aaa41-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589693,
+          "endTime": 1778275589694,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/74046-0d40c36239df921a-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589695,
+          "endTime": 1778275589697,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/66796-9fe127d3a552e6ed-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589697,
+          "endTime": 1778275589699,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/19085-081d931e05f25f02-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589699,
+          "endTime": 1778275589700,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25023-b37a71babab7d09c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589701,
+          "endTime": 1778275589702,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/21865-9dc113bff3afcc9d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589703,
+          "endTime": 1778275589704,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589705,
+          "endTime": 1778275589706,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-f64ce2acc9cb4662-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589706,
+          "endTime": 1778275589712,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25134-a20127834bf520d7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589712,
+          "endTime": 1778275589714,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-editor-render-form-ff851040cbd40bc9-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589714,
+          "endTime": 1778275589717,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/RecordHit",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589717,
+          "endTime": 1778275590430,
+          "duration": 713
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/button-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589718,
+          "endTime": 1778275590425,
+          "duration": 707
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/button-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589719,
+          "endTime": 1778275590427,
+          "duration": 708
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/button-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275589720,
+          "endTime": 1778275590429,
+          "duration": 709
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/P6LALdRQUiw?feature=oembed",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275590355,
+          "endTime": 1778275590579,
+          "duration": 224
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?v=3&callback=GoogleMapsApiLoadCallback&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&language=en&region=US",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590395,
+          "endTime": 1778275590402,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise.js?onload=__grecaptchaOnLoadCallback&render=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590403,
+          "endTime": 1778275590421,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.333bd5aee1885e7af603.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590492,
+          "endTime": 1778275590493,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590707,
+          "endTime": 1778275590708,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590709,
+          "endTime": 1778275590710,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590710,
+          "endTime": 1778275590716,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590717,
+          "endTime": 1778275590718,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.youtube.com/iframe_api",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590719,
+          "endTime": 1778275590829,
+          "duration": 110
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590719,
+          "endTime": 1778275590721,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275590719,
+          "endTime": 1778275590722,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-widgetapi.vflset/www-widgetapi.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591176,
+          "endTime": 1778275591677,
+          "duration": 501
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591203,
+          "endTime": 1778275591683,
+          "duration": 480
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591203,
+          "endTime": 1778275591205,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591207,
+          "endTime": 1778275591208,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591684,
+          "endTime": 1778275591903,
+          "duration": 219
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/P6LALdRQUiw/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591820,
+          "endTime": 1778275592026,
+          "duration": 206
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591888,
+          "endTime": 1778275592466,
+          "duration": 578
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/common.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591890,
+          "endTime": 1778275591896,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591897,
+          "endTime": 1778275591898,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/map.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591899,
+          "endTime": 1778275591901,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/marker.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591901,
+          "endTime": 1778275591902,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591902,
+          "endTime": 1778275592255,
+          "duration": 353
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275591948,
+          "endTime": 1778275591949,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/Pdo9ffMpluo?autohide=1&autoplay=0&controls=0&enablejsapi=1&iv_load_policy=3&loop=0&modestbranding=1&playsinline=1&rel=0&showinfo=0&wmode=opaque&origin=https%3A%2F%2Fwww.cmasf.com&widgetid=1&forigin=https%3A%2F%2Fwww.cmasf.com%2Fhome&aoriginsup=1&vf=1",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275592021,
+          "endTime": 1778275592469,
+          "duration": 448
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cuY21hc2YuY29tOjQ0Mw..&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=invisible&anchor-ms=20000&execute-ms=30000&cb=sydq6gdf5shj",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275592306,
+          "endTime": 1778275592788,
+          "duration": 482
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/80587-643c00762d7ff0ee-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592340,
+          "endTime": 1778275592342,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/62059-e98f38e29caaaf8b-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592342,
+          "endTime": 1778275592344,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/45475-3dacbff1735c2c3f-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592344,
+          "endTime": 1778275592378,
+          "duration": 34
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/40843-541f4c3b7e5425c3-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592379,
+          "endTime": 1778275592380,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/15951-37591bdeb6da0a78-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592386,
+          "endTime": 1778275592390,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/34895-8db5b14a22ca77fb-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592396,
+          "endTime": 1778275592397,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/65157-ac7d999a378150db-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592398,
+          "endTime": 1778275592399,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592400,
+          "endTime": 1778275592401,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-visitor-form-rendering-244e943e2ce54a90-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592401,
+          "endTime": 1778275593071,
+          "duration": 670
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/form-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592402,
+          "endTime": 1778275593068,
+          "duration": 666
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?_nnE1g",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592469,
+          "endTime": 1778275592799,
+          "duration": 330
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592503,
+          "endTime": 1778275592506,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592506,
+          "endTime": 1778275592508,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592525,
+          "endTime": 1778275592534,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592535,
+          "endTime": 1778275592537,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592640,
+          "endTime": 1778275592644,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592713,
+          "endTime": 1778275592716,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592792,
+          "endTime": 1778275593094,
+          "duration": 302
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592792,
+          "endTime": 1778275592795,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275592795,
+          "endTime": 1778275592797,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/styles__ltr.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593055,
+          "endTime": 1778275593056,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593057,
+          "endTime": 1778275593387,
+          "duration": 330
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593094,
+          "endTime": 1778275593697,
+          "duration": 603
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Pdo9ffMpluo/sddefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593242,
+          "endTime": 1778275593385,
+          "duration": 143
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275587720&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=1&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938468~118128923~118463261~118494633~118719171&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fhome&dt=California%20Martial%20Athletics&en=page_view&_ee=1&tfd=6249",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593243,
+          "endTime": 1778275593855,
+          "duration": 612
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593357,
+          "endTime": 1778275593858,
+          "duration": 501
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593762,
+          "endTime": 1778275593764,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593828,
+          "endTime": 1778275594368,
+          "duration": 540
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275593909,
+          "endTime": 1778275594540,
+          "duration": 631
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594001,
+          "endTime": 1778275594004,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594006,
+          "endTime": 1778275594008,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594006,
+          "endTime": 1778275594009,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Pdo9ffMpluo/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594141,
+          "endTime": 1778275594543,
+          "duration": 402
+        }
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/qoe?fmt=136&cpn=OvtEbxENEvXysMyh&el=embedded&ns=yt&fexp=v1%2C24004644%2C494890%2C26510701%2C53408%2C34656%2C47716%2C58314%2C18644%2C117689%2C9252%2C3479%2C13030%2C6256%2C16950%2C69796%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C11038%2C1977%2C13111%2C2977%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C6355%2C5115%2C13160%2C452%2C21068%2C10985%2C24046%2C3305%2C1352%2C954%2C2754%2C9842%2C2932%2C8141%2C1212%2C2195%2C1626%2C8030%2C10591%2C6118%2C7057%2C288%2C1549%2C9514%2C8954%2C2885%2C3682%2C178%2C4508%2C2430%2C3580%2C3%2C369%2C2814%2C2629%2C347%2C1969%2C3773%2C2826%2C22%2C2118%2C7796&cl=910468478&seq=1&docid=Pdo9ffMpluo&ei=ClX-aZaqAfG9zPsPtbSumAM&event=streamingstats&plid=AAZRVQ0YelNdiqoH&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&vps=0.000:N,0.926:B,0.935:S,1.373:S,1.373:S&ctmp=dttg:t.2;dtt.1;gl.0&cat=streaming&cmt=0.926:0.000,0.935:2.000,1.373:2.000&vfs=1.373:136:136::r:sms.0&view=1.373:1280:720&bwe=1.373:616038&bat=1.373:1:1&vis=1.373:0&bh=1.373:0.000&qclc=ChBPdnRFYnhFTkV2WHlzTXloEAE",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594369,
+          "endTime": 1778275595026,
+          "duration": 657
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=136&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=video%2Fmp4&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=42450009&dur=180.166&lmt=1710998467201072&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6219224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRAIgNTj1ZdwuviWCGvfIJ9Oqjbepc0l7lZeQtHoXmDC-fpcCICJNzhvKbjHky1gpeMlokY1ERaPtsXU3F4hhkHW3fFhI&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=0-1179&rn=1&rbuf=0&pot=IggQGREYeedFEQ==&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594374,
+          "endTime": 1778275595030,
+          "duration": 656
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=3411461&dur=180.201&lmt=1710998467624086&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6218224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRgIhAKDJPP5ynLIhgr0E7cucay8IcXT6pRXhyktopiaXgjsbAiEA_idrW0YuUoxQZeY1k2hrQXP4EhUd5VXeKagrzmxuRV4%3D&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=0-585&rn=2&rbuf=0&pot=IggQGREYeedFEQ==&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594377,
+          "endTime": 1778275595032,
+          "duration": 655
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/captions.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594381,
+          "endTime": 1778275595028,
+          "duration": 647
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/next?prettyPrint=false",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594381,
+          "endTime": 1778275595124,
+          "duration": 743
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "other",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275594541,
+          "endTime": 1778275596107,
+          "duration": 1566
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595020,
+          "endTime": 1778275595021,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/log.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595125,
+          "endTime": 1778275595312,
+          "duration": 187
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/onion.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595125,
+          "endTime": 1778275595315,
+          "duration": 190
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=136&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=video%2Fmp4&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=42450009&dur=180.166&lmt=1710998467201072&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6219224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRAIgNTj1ZdwuviWCGvfIJ9Oqjbepc0l7lZeQtHoXmDC-fpcCICJNzhvKbjHky1gpeMlokY1ERaPtsXU3F4hhkHW3fFhI&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=1180-671219&rn=3&rbuf=0&pot=IggQGREYeedFEQ==&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595150,
+          "endTime": 1778275595352,
+          "duration": 202
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/player_full_enter_alt/v1/24px.svg",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595192,
+          "endTime": 1778275595443,
+          "duration": 251
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/8SUOqiAk-MH1OKtila4XK-CgQbbB4J5_TI6w-hBdJWk4VP9su0QdSFSrmjBOtcUIg0b1KCCBH24=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595241,
+          "endTime": 1778275595242,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595315,
+          "endTime": 1778275595317,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595318,
+          "endTime": 1778275595641,
+          "duration": 323
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595349,
+          "endTime": 1778275595351,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595473,
+          "endTime": 1778275595908,
+          "duration": 435
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=83597",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595641,
+          "endTime": 1778275595669,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119426",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595670,
+          "endTime": 1778275595672,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=58495",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595673,
+          "endTime": 1778275595675,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=22666",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595676,
+          "endTime": 1778275595682,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=117908",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595683,
+          "endTime": 1778275595685,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=47768",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595686,
+          "endTime": 1778275595688,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i654!3i1582!1m4!1m3!1i12!2i654!3i1583!1m4!1m3!1i12!2i655!3i1582!1m4!1m3!1i12!2i655!3i1583!1m4!1m3!1i12!2i656!3i1582!1m4!1m3!1i12!2i656!3i1583!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e3!12m1!5b1!23i46991212!23i47054750&callback=_xdc_._z5zhs7&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=45099",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595823,
+          "endTime": 1778275595825,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://clanker-events.squarespace.com/api/v1/clanker/events",
+        "method": "POST",
+        "status": 200,
+        "type": "ping",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595825,
+          "endTime": 1778275596227,
+          "duration": 402
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=3411461&dur=180.201&lmt=1710998467624086&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6218224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRgIhAKDJPP5ynLIhgr0E7cucay8IcXT6pRXhyktopiaXgjsbAiEA_idrW0YuUoxQZeY1k2hrQXP4EhUd5VXeKagrzmxuRV4%3D&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=586-66121&rn=4&rbuf=0&pot=IggQGREYeedFEQ==&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595837,
+          "endTime": 1778275595952,
+          "duration": 115
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?H6APfQ",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275595950,
+          "endTime": 1778275596094,
+          "duration": 144
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=136&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=video%2Fmp4&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=42450009&dur=180.166&lmt=1710998467201072&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6219224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRAIgNTj1ZdwuviWCGvfIJ9Oqjbepc0l7lZeQtHoXmDC-fpcCICJNzhvKbjHky1gpeMlokY1ERaPtsXU3F4hhkHW3fFhI&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=671220-1341259&rn=5&rbuf=1&pot=IggQGREYeedFEQ==&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596024,
+          "endTime": 1778275596402,
+          "duration": 378
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/controls.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596101,
+          "endTime": 1778275596102,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596103,
+          "endTime": 1778275596104,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596103,
+          "endTime": 1778275596106,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596139,
+          "endTime": 1778275596169,
+          "duration": 30
+        }
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/playback?ns=yt&el=embedded&cpn=OvtEbxENEvXysMyh&ver=2&cmt=2&fmt=136&fs=0&rt=3.32&euri=https%3A%2F%2Fwww.cmasf.com%2F&lact=1512&cl=910468478&mos=1&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&autoplay=1&epm=1&splay=1&hl=de_DE&cr=AT&len=180.201&fexp=v1%2C24004644%2C494890%2C26510701%2C53408%2C34656%2C47716%2C58314%2C18644%2C117689%2C9252%2C3479%2C13030%2C6256%2C16950%2C69796%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C11038%2C1977%2C13111%2C2977%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C6355%2C5115%2C13160%2C452%2C21068%2C10985%2C24046%2C3305%2C1352%2C954%2C2754%2C9842%2C2932%2C8141%2C1212%2C2195%2C1626%2C8030%2C10591%2C6118%2C7057%2C288%2C1549%2C9514%2C8954%2C2885%2C3682%2C178%2C4508%2C2430%2C3580%2C3%2C369%2C2814%2C2629%2C347%2C1969%2C3773%2C2826%2C22%2C2118%2C7796&rtn=7&afmt=251&size=1280%3A720&inview=0&muted=1&docid=Pdo9ffMpluo&ei=ClX-aZaqAfG9zPsPtbSumAM&plid=AAZRVQ0YelNdiqoH&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPdo9ffMpluo%3Fautohide%3D1%26autoplay%3D0%26controls%3D0%26enablejsapi%3D1%26iv_load_policy%3D3%26loop%3D0%26modestbranding%3D1%26playsinline%3D1%26rel%3D0%26showinfo%3D0%26wmode%3Dopaque%26origin%3Dhttps%253A%252F%252Fwww.cmasf.com%26widgetid%3D1%26forigin%3Dhttps%253A%252F%252Fwww.cmasf.com%252Fhome%26aoriginsup%3D1%26vf%3D1&of=g2yFOpQ-cumJJtxWvHo0sg&vm=CAQQARgCOjJBSHFpSlRKendJUW1wUGFOQUVwc2F0Q29ULWZvY082dnJ6UnhXMW5fdTlRY3JFaXlaQWJkQUxkcUFQTDR4dFJBbGIwRUVPUmdwOE1WVnZVaWtSQjhnOVpRVWc4blcxRmt5Yk1nRVVnN0RYcFlfQmNROTZERFJSbVVSV1FwTGlVNTR4WjlOM2FPUjFRaTRvdlV5Sk05aXZ3eg",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596358,
+          "endTime": 1778275596512,
+          "duration": 154
+        }
+      },
+      {
+        "url": "https://www.youtube.com/ptracking?html5=1&video_id=Pdo9ffMpluo&cpn=OvtEbxENEvXysMyh&ei=ClX-aZaqAfG9zPsPtbSumAM&ptk=youtube_single&oid=Y1jvZwNl8JcDQpSglHERyg&pltype=contentugc",
+        "method": "GET",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596358,
+          "endTime": 1778275596540,
+          "duration": 182
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596403,
+          "endTime": 1778275596545,
+          "duration": 142
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,r78Drb,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=Nuilue",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596439,
+          "endTime": 1778275596595,
+          "duration": 156
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596503,
+          "endTime": 1778275596703,
+          "duration": 200
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=3411461&dur=180.201&lmt=1710998467624086&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6218224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRgIhAKDJPP5ynLIhgr0E7cucay8IcXT6pRXhyktopiaXgjsbAiEA_idrW0YuUoxQZeY1k2hrQXP4EhUd5VXeKagrzmxuRV4%3D&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=66122-131657&rn=6&rbuf=1225&pot=IggQGREYeedFEQ==&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596503,
+          "endTime": 1778275596701,
+          "duration": 198
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596510,
+          "endTime": 1778275596738,
+          "duration": 228
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=136&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=video%2Fmp4&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=42450009&dur=180.166&lmt=1710998467201072&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6219224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRAIgNTj1ZdwuviWCGvfIJ9Oqjbepc0l7lZeQtHoXmDC-fpcCICJNzhvKbjHky1gpeMlokY1ERaPtsXU3F4hhkHW3fFhI&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=1341260-1786660&rn=7&rbuf=2003&pot=MlrUo_SOOeQFNNTgQmddvNlAmT0DxsKmst9g-GrM4c0b27X3PUOgnUgR72p3kbIlG__ROWtPPnq-rOPZJf3iBWpTGd_fSx0IrvlDgTkZopskUHeNppNXe9sc0uk=&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275596739,
+          "endTime": 1778275596929,
+          "duration": 190
+        }
+      },
+      {
+        "url": "https://rr1---sn-ajh0j5-5x.googlevideo.com/videoplayback?expire=1778297194&ei=ClX-aZaqAfG9zPsPtbSumAM&ip=2001%3A4bc9%3Ac060%3Adc84%3Ae91d%3A49d8%3A7c1f%3Afee8&id=o-AIS9mOs13JqZp9HPxvep9_ywdgqc6DuVIMp0tNaolUAV&itag=136&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=432&met=1778275594%2C&mh=Zm&mm=31%2C29&mn=sn-ajh0j5-5x%2Csn-h0jelne6&ms=au%2Crdu&mv=m&mvi=1&pl=29&rms=au%2Cau&initcwndbps=2612500&bui=AbKmrwpBfceDl-GwAAq3yzLSOUmDPUp0mPwGfhFoWcJEKAjXH_lTH2-u5qVnq6vojMyIiK-X_WS_Qp_x&spc=96Xrv1HmYLXe0eP7zJXkYulz8dPQ4zRxvpyF6hRSPO9Wuakf9Cg8vKM5FKn0X8Pe3ItjXw&vprv=1&svpuc=1&mime=video%2Fmp4&ns=rll_aSCGv8_Z4PpzpNwHh10U&rqh=1&gir=yes&clen=42450009&dur=180.166&lmt=1710998467201072&mt=1778275268&fvip=5&keepalive=yes&fexp=51565116%2C51565682&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=6219224&n=jIA1di1wU7efXA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAMMe5nAk8CJheb6_hvYVBEq7qcRHyNFNce60zVxYtZR9AiBcsc62Yk_xNL8SZFJ2-cyKccvacB7hVCCmnc7fJnbu0w%3D%3D&alr=yes&sig=AHEqNM4wRAIgNTj1ZdwuviWCGvfIJ9Oqjbepc0l7lZeQtHoXmDC-fpcCICJNzhvKbjHky1gpeMlokY1ERaPtsXU3F4hhkHW3fFhI&cpn=OvtEbxENEvXysMyh&cver=2.20260508.01.00&range=1786661-2456700&rn=8&rbuf=3333&pot=MlrUo_SOOeQFNNTgQmddvNlAmT0DxsKmst9g-GrM4c0b27X3PUOgnUgR72p3kbIlG__ROWtPPnq-rOPZJf3iBWpTGd_fSx0IrvlDgTkZopskUHeNppNXe9sc0uk=&ump=1&srfvp=1",
+        "method": "POST",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275597154,
+          "endTime": 1778275597343,
+          "duration": 189
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275597341,
+          "endTime": 1778275597921,
+          "duration": 580
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.cmasf.com",
+      "www.youtube.com",
+      "region1.google-analytics.com",
+      "performance.squarespace.com",
+      "o109687.ingest.us.sentry.io",
+      "fonts.googleapis.com",
+      "assets.squarespace.com",
+      "definitions.sqspcdn.com",
+      "static1.squarespace.com",
+      "www.googletagmanager.com",
+      "images.squarespace-cdn.com",
+      "fonts.gstatic.com",
+      "maps.googleapis.com",
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "i.ytimg.com",
+      "www.gstatic.com",
+      "jnn-pa.googleapis.com",
+      "rr1---sn-ajh0j5-5x.googlevideo.com",
+      "maps.gstatic.com",
+      "yt3.ggpht.com",
+      "clanker-events.squarespace.com"
+    ],
+    "aggregates": {
+      "total_requests": 183,
+      "by_type": {
+        "document": 4,
+        "xhr": 22,
+        "fetch": 16,
+        "ping": 2,
+        "stylesheet": 20,
+        "script": 85,
+        "image": 22,
+        "font": 11,
+        "other": 1
+      },
+      "failed": 6,
+      "avg_response_time": 214.5792349726776
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 1011,
+    "max_depth": 23,
+    "script_counts": {
+      "inline": 21,
+      "external": 44,
+      "async": 4,
+      "defer": 30,
+      "blocking": 10
+    },
+    "blocking_resources": [
+      "https://www.youtube.com/iframe_api",
+      "https://maps.googleapis.com/maps/api/js?v=3&callback=GoogleMapsApiLoadCallback&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&language=en&region=US",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/common.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/map.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/marker.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/log.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/onion.js",
+      "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i654!3i1582!1m4!1m3!1i12!2i654!3i1583!1m4!1m3!1i12!2i655!3i1582!1m4!1m3!1i12!2i655!3i1583!1m4!1m3!1i12!2i656!3i1582!1m4!1m3!1i12!2i656!3i1583!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e3!12m1!5b1!23i46991212!23i47054750&callback=_xdc_._z5zhs7&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=45099",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/controls.js",
+      "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+      "https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Anton:ital,wght@0,400",
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/a5dffbea-1efe-41dc-906d-6fe484d3e1c8_703/website.components.button.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/website.components.video.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+      "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+      "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Skip to Content About Schedule Youth Program FAQs Contact AUthentic muay thai in the heart of san francisco more than a gym. a community. Try a Class No experience necessary. All levels welcome! Our experienced coaches have over 25 years of teaching , working with everyone from first-timers to pro fighters. We train together, grow together, and push for progress inside and out. View Schedule Certified by the thai boxing association of america Try a Class reviews \"You're not going to find a better combo of genuine and approachable dudes who are also skilled, passionate and attentive fight coaches like you will in Dave and Joe.\" Joshua Brain J. San Francisco, CA \"This gym is great because you get lots of individual attention, even in the classes, and the environment is really welcoming and friendly no matter your skill level. \" Ariel J. Chicago, IL “I started practicing Muay Thai a little over a year ago under Dave's instruction, and I couldn't have asked for a better mentor as a complete beginner.\" Moon D. San Francisco, CA \"Joe and Dave are extremely well-rounded teachers and their relatively small class sizes compared to other gyms allows them to give attention to students individually.\" Eric T. San Francisco, CA \"I highly recommend this place! It's refueled my passion for martial arts and I couldn't be happier to have found an incredible gym community.\" Samantha A. San Francisco, CA \"They'll make sure you learn and work out hard, but they also stress timing and technique so you learn the right way.\" Nikky L. Washington, DC \"There are so many great things to say about CMA. All the coaches are incredibly knowledgeable and push you without creating a hostile environment\" Michael L. San Francisco, CA Contact us to try a class! 1217 Polk St San Francisco, CA 94109 Email hello@cmasf.com Phone (415) 359-9294 Name First Name (required) Last Name (required) Email (required) Message Send Schedule About Newsletter Pricing FAQ s hello@cmasf.com I ‍  ‍ (415) 359-9294 ‍   ‍ 1217 Polk,  San Francisco",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "AUthentic muay thai in the heart of san francisco"
+      },
+      {
+        "level": "h2",
+        "text": "Certified bythe thai boxing associationof america"
+      },
+      {
+        "level": "h2",
+        "text": "\"You're not going to find a better combo of genuine and approachable dudes who are also skilled, passionate and attentive fight coaches like you will in Dave and Joe.\""
+      },
+      {
+        "level": "h2",
+        "text": "\"This gym is great because you get lots of individual attention, even in the classes, and the environment is really welcoming and friendly no matter your skill level. \""
+      },
+      {
+        "level": "h2",
+        "text": "“I started practicing Muay Thai a little over a year ago under Dave's instruction, and I couldn't have asked for a better mentor as a complete beginner.\""
+      },
+      {
+        "level": "h2",
+        "text": "\"Joe and Dave are extremely well-rounded teachers and their relatively small class sizes compared to other gyms allows them to give attention to students individually.\""
+      },
+      {
+        "level": "h2",
+        "text": "\"I highly recommend this place! It's refueled my passion for martial arts and I couldn't be happier to have found an incredible gym community.\""
+      },
+      {
+        "level": "h2",
+        "text": "\"They'll make sure you learn and work out hard, but they also stress timing and technique so you learn the right way.\""
+      },
+      {
+        "level": "h2",
+        "text": "\"There are so many great things to say about CMA. All the coaches are incredibly knowledgeable and push you without creating a hostile environment\""
+      },
+      {
+        "level": "h2",
+        "text": "Contact us to try a class!"
+      },
+      {
+        "level": "h3",
+        "text": "1217 Polk St San Francisco, CA 94109"
+      },
+      {
+        "level": "h4",
+        "text": "more than a gym. a community."
+      }
+    ],
+    "ctas": [
+      {
+        "text": "About",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Open Menu\n    Close Menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Keyboard shortcuts",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Map Data",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "2 km Click to toggle between metric and imperial units",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "SendSend",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      },
+      {
+        "text": "Try a Class",
+        "type": "link",
+        "href": "https://www.cmasf.com/home#contact"
+      },
+      {
+        "text": "View Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "instructors",
+        "contact",
+        "trial"
+      ]
+    },
+    "hierarchy_summary": "h1: AUthentic muay thai in the heart of san francisco\n  h2: Certified bythe thai boxing associationof america\n  h2: \"You're not going to find a better combo of genuine and approachable dudes who are also skilled, passionate and attentive fight coaches like you will in Dave and Joe.\"\n  h2: \"This gym is great because you get lots of individual attention, even in the classes, and the environment is really welcoming and friendly no matter your skill level. \"\n  h2: “I started practicing Muay Thai a little over a year ago under Dave's instruction, and I couldn't have asked for a better mentor as a complete beginner.\"\n  h2: \"Joe and Dave are extremely well-rounded teachers and their relatively small class sizes compared to other gyms allows them to give attention to students individually.\"\n  h2: \"I highly recommend this place! It's refueled my passion for martial arts and I couldn't be happier to have found an incredible gym community.\"\n  h2: \"They'll make sure you learn and work out hard, but they also stress timing and technique so you learn the right way.\"\n  h2: \"There are so many great things to say about CMA. All the coaches are incredibly knowledgeable and push you without creating a hostile environment\"\n  h2: Contact us to try a class!\n    h3: 1217 Polk St San Francisco, CA 94109\n      h4: more than a gym. a community."
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "California Martial Athletics",
+      "surrounding_text": "California Martial Athletics",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/2dbda022-175d-4af5-bd00-c6ae5c65e3aa/CMASF-10.jpg",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/27cb7b4b-a24e-41b6-ad01-72e72da21e10/CMA-2024-Promo-02.00_01_21_06.Still010.jpg",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c5e794d1-e22b-4820-8068-25422364d37e/TBA+logo.jpg",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ca377844-d071-4374-b110-832d5f4f7a51/CMASF-05.jpg",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "background"
+    },
+    {
+      "src": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=83597",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119426",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=58495",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=22666",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=117908",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=47768",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+      "page_url": "https://www.cmasf.com/home",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [
+      "YouTube Embed"
+    ],
+    "other": []
+  }
+}

@@ -1,0 +1,1327 @@
+{
+  "generatedFrom": "www_cmasf_com*.json",
+  "pageCount": 35,
+  "pages": [
+    {
+      "source": "www_cmasf_com.json",
+      "route": "/",
+      "url": "https://www.cmasf.com/",
+      "title": "California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/2dbda022-175d-4af5-bd00-c6ae5c65e3aa/CMASF-10.jpg",
+          "alt": "",
+          "purpose": "hero"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/27cb7b4b-a24e-41b6-ad01-72e72da21e10/CMA-2024-Promo-02.00_01_21_06.Still010.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c5e794d1-e22b-4820-8068-25422364d37e/TBA+logo.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ca377844-d071-4374-b110-832d5f4f7a51/CMASF-05.jpg",
+          "alt": "",
+          "purpose": "background"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_about.json",
+      "route": "/about",
+      "url": "https://www.cmasf.com/about",
+      "title": "General 2 — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c05910c8-64f5-44b9-b451-c6599dd74555/CMASF-Image-04.jpg",
+          "alt": "",
+          "purpose": "hero"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/116d857e-2389-433e-83b1-422031bb1bad/CMASF-Image-08.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/9768b2db-b131-41ce-b173-777c11aa7cab/CMASF-Image-06.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/15534db7-7316-43c1-9eb9-3328410be416/CMASF-Image-10.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ca377844-d071-4374-b110-832d5f4f7a51/CMASF-05.jpg",
+          "alt": "",
+          "purpose": "background"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_cart.json",
+      "route": "/cart",
+      "url": "https://www.cmasf.com/cart",
+      "title": "California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_coaches.json",
+      "route": "/coaches",
+      "url": "https://www.cmasf.com/coaches",
+      "title": "Coaches — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/55b6bdef-7b1c-40ab-ac7d-bbc74f287bc4/o+%282%29.jpg",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/531b19c1-73e1-4fd3-a8e5-14507c8cf132/o+%282%29_edited.png",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d4c437ae-0570-4e2c-bf56-f1f44ade00c7/Screenshot+at+May+09+17-31-07.png",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/7da0e3ff-b1f2-4412-a9a3-08d585c3be68/tina.png",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ba8b2e4a-9b78-4326-93d7-cb2d5a7e5045/598790196_715266074991087_7733371902715294531_n.png",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/7449a298-4e98-4920-a5b9-f12b7b3cee96/Screenshot+at+Apr+30+21-15-08.jpg",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/81756fff-f04a-40ba-a6d8-5099f9e4826f/lindsay.png",
+          "alt": "",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_contact.json",
+      "route": "/contact",
+      "url": "https://www.cmasf.com/contact",
+      "title": "Contact — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_faqs.json",
+      "route": "/faqs",
+      "url": "https://www.cmasf.com/faqs",
+      "title": "FAQs 1 — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_home.json",
+      "route": "/home",
+      "url": "https://www.cmasf.com/home",
+      "title": "California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/2dbda022-175d-4af5-bd00-c6ae5c65e3aa/CMASF-10.jpg",
+          "alt": "",
+          "purpose": "hero"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/27cb7b4b-a24e-41b6-ad01-72e72da21e10/CMA-2024-Promo-02.00_01_21_06.Still010.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c5e794d1-e22b-4820-8068-25422364d37e/TBA+logo.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ca377844-d071-4374-b110-832d5f4f7a51/CMASF-05.jpg",
+          "alt": "",
+          "purpose": "background"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_brandon_lydick.json",
+      "route": "/muay-thai-coach-brandon-lydick",
+      "url": "https://www.cmasf.com/muay-thai-coach-brandon-lydick",
+      "title": "Coach Brandon Lydick — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d6d90c48-f0cd-444d-9f99-fbb66b365246/Screenshot+at+May+09+17-31-07.png",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c6410542-5240-4ff9-bf34-bfd8a71da714/thumbnail",
+          "alt": "",
+          "purpose": "general"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_dave_engel.json",
+      "route": "/muay-thai-coach-dave-engel",
+      "url": "https://www.cmasf.com/muay-thai-coach-dave-engel",
+      "title": "Coach Dave Engel — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/55b6bdef-7b1c-40ab-ac7d-bbc74f287bc4/o+%282%29.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_eric_tran.json",
+      "route": "/muay-thai-coach-eric-tran",
+      "url": "https://www.cmasf.com/muay-thai-coach-eric-tran",
+      "title": "Coach Eric Tran — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/cfe447cf-260c-4746-ba88-74b57d85edc1/IMG_4860.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_joe_chernay.json",
+      "route": "/muay-thai-coach-joe-chernay",
+      "url": "https://www.cmasf.com/muay-thai-coach-joe-chernay",
+      "title": "Coach Joe Chernay — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/531b19c1-73e1-4fd3-a8e5-14507c8cf132/o+%282%29_edited.png",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_lindsay_bowering.json",
+      "route": "/muay-thai-coach-lindsay-bowering",
+      "url": "https://www.cmasf.com/muay-thai-coach-lindsay-bowering",
+      "title": "Coach Lindsay Bowering — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/81756fff-f04a-40ba-a6d8-5099f9e4826f/lindsay.png",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_tina_carter.json",
+      "route": "/muay-thai-coach-tina-carter",
+      "url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+      "title": "Coach Tina Carter — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ab1cbaa1-3681-482c-b0b4-0e25a2ddcda4/tina.png",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/thumbnail",
+          "alt": "",
+          "purpose": "general"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_muay_thai_coach_xyler_rodis.json",
+      "route": "/muay-thai-coach-xyler-rodis",
+      "url": "https://www.cmasf.com/muay-thai-coach-xyler-rodis",
+      "title": "Coach Xyler Rodis — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ba8b2e4a-9b78-4326-93d7-cb2d5a7e5045/598790196_715266074991087_7733371902715294531_n.png",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/4bffb157-2e2f-4e40-a505-9804c500d215/thumbnail",
+          "alt": "",
+          "purpose": "general"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_pricing.json",
+      "route": "/pricing",
+      "url": "https://www.cmasf.com/pricing",
+      "title": "Pricing — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_schedule.json",
+      "route": "/schedule",
+      "url": "https://www.cmasf.com/schedule",
+      "title": "Schedule — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos.json",
+      "route": "/videos",
+      "url": "https://www.cmasf.com/videos",
+      "title": "Videos — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "California Martial Athletics | Gym Walkthrough | CMA SF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/F_v4d9Z3J_g/hqdefault.jpg",
+          "alt": "ZAE BRYANT MARTINEZ | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "MATHILDA SAVOCCHIA vs JESSALYN LOZA | #A1Combat | #MuayThai | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P_ryl8-jems/hqdefault.jpg",
+          "alt": "Off-Balancing Techniques from the Clinch | CMA Technique of the Month - May 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "California Martial Athletics | Muay Thai Training Academy | CMA SF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "FERNANDO GOMEZ vs ENCHO TIMOTEO | Rising Stars Muay Thai 6 | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+          "alt": "POONTARIKA \"SOMO\" POWELL vs Parmida | #Fairtexfight Muaythai Extreme | CMA",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "5 Punch Combos | CMA Technique of the Month - November 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "FERNANDO GOMEZ vs CARLO ARQUIZA | #MuayThai | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Clinch Defense | CMA Technique of the Month - March 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "POONTARIKA \"SOMO\" POWELL | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "California Martial Athletics | CMA SF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+          "alt": "Switch Kick Set-Ups | CMA Technique of the Month - April 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_fight_videos.json",
+      "route": "/videos/fight-videos",
+      "url": "https://www.cmasf.com/videos/fight-videos",
+      "title": "Fight Videos — Videos — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "FERNANDO GOMEZ vs ENCHO TIMOTEO | Rising Stars Muay Thai 6 | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "MATHILDA SAVOCCHIA vs JESSALYN LOZA | #A1Combat | #MuayThai | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "FERNANDO GOMEZ vs CARLO ARQUIZA | #MuayThai | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+          "alt": "POONTARIKA \"SOMO\" POWELL vs Parmida | #Fairtexfight Muaythai Extreme | CMA",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_gym_videos.json",
+      "route": "/videos/gym-videos",
+      "url": "https://www.cmasf.com/videos/gym-videos",
+      "title": "Gym Videos — Videos — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "California Martial Athletics | Muay Thai Training Academy | CMA SF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "California Martial Athletics | Gym Walkthrough | CMA SF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/F_v4d9Z3J_g/hqdefault.jpg",
+          "alt": "ZAE BRYANT MARTINEZ | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "California Martial Athletics | CMA SF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "POONTARIKA \"SOMO\" POWELL | CMASF",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_instructional_videos.json",
+      "route": "/videos/instructional-videos",
+      "url": "https://www.cmasf.com/videos/instructional-videos",
+      "title": "Instructional Videos — Videos — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "5 Punch Combos | CMA Technique of the Month - November 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P_ryl8-jems/hqdefault.jpg",
+          "alt": "Off-Balancing Techniques from the Clinch | CMA Technique of the Month - May 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+          "alt": "Switch Kick Set-Ups | CMA Technique of the Month - April 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Clinch Defense | CMA Technique of the Month - March 2023",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_772lsj39f5h4gc6zpb42rdtsdmm9wp.json",
+      "route": "/videos/v/772lsj39f5h4gc6zpb42rdtsdmm9wp",
+      "url": "https://www.cmasf.com/videos/v/772lsj39f5h4gc6zpb42rdtsdmm9wp?categoryId=68cc47ae6494c83817f92450",
+      "title": "POONTARIKA \"SOMO\" POWELL vs Parmida | #Fairtexfight Muaythai Extreme | CMA — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_daily_calm_xfsf2_btanf_rlr8m.json",
+      "route": "/videos/v/daily-calm-xfsf2-btanf-rlr8m",
+      "url": "https://www.cmasf.com/videos/v/daily-calm-xfsf2-btanf-rlr8m?categoryId=68cc47ae6494c83817f92450",
+      "title": "FERNANDO GOMEZ vs ENCHO TIMOTEO | Rising Stars Muay Thai 6 | CMASF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_everything_to_sell_anything_427ge_t8t94_ys9pb_g5ze7.json",
+      "route": "/videos/v/everything-to-sell-anything-427ge-t8t94-ys9pb-g5ze7",
+      "url": "https://www.cmasf.com/videos/v/everything-to-sell-anything-427ge-t8t94-ys9pb-g5ze7?categoryId=68cc47ae6494c83817f92455",
+      "title": "POONTARIKA \"SOMO\" POWELL | CMASF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_friday_morning_flow_2jrdk_yjy39_7sar7.json",
+      "route": "/videos/v/friday-morning-flow-2jrdk-yjy39-7sar7",
+      "url": "https://www.cmasf.com/videos/v/friday-morning-flow-2jrdk-yjy39-7sar7?categoryId=68cc47ae6494c83817f9245a",
+      "title": "Switch Kick Set-Ups | CMA Technique of the Month - April 2023 — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_hosted_with_custom_z9ehj_dk54m_kn9sj_2rawt.json",
+      "route": "/videos/v/hosted-with-custom-z9ehj-dk54m-kn9sj-2rawt",
+      "url": "https://www.cmasf.com/videos/v/hosted-with-custom-z9ehj-dk54m-kn9sj-2rawt?categoryId=68cc47ae6494c83817f92455",
+      "title": "ZAE BRYANT MARTINEZ | CMASF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_how_to_create_an_under_construction_page_nmhkn_c6mkn_ynts7_hrdd8.json",
+      "route": "/videos/v/how-to-create-an-under-construction-page-nmhkn-c6mkn-ynts7-hrdd8",
+      "url": "https://www.cmasf.com/videos/v/how-to-create-an-under-construction-page-nmhkn-c6mkn-ynts7-hrdd8?categoryId=68cc47ae6494c83817f92455",
+      "title": "California Martial Athletics | CMA SF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/F_v4d9Z3J_g/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P_ryl8-jems/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_how_to_use_twitter_blocks_g9mnf_bnxm7_323y3_zeh5s.json",
+      "route": "/videos/v/how-to-use-twitter-blocks-g9mnf-bnxm7-323y3-zeh5s",
+      "url": "https://www.cmasf.com/videos/v/how-to-use-twitter-blocks-g9mnf-bnxm7-323y3-zeh5s?categoryId=68cc47ae6494c83817f92450",
+      "title": "FERNANDO GOMEZ vs CARLO ARQUIZA | #MuayThai | CMASF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_it_is_nhsde_pk8se_k6tb2_thagl.json",
+      "route": "/videos/v/it-is-nhsde-pk8se-k6tb2-thagl",
+      "url": "https://www.cmasf.com/videos/v/it-is-nhsde-pk8se-k6tb2-thagl?categoryId=68cc47ae6494c83817f92450",
+      "title": "MATHILDA SAVOCCHIA vs JESSALYN LOZA | #A1Combat | #MuayThai | CMASF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_john_mcenroe_does_voice_over_now_zpk5h_8j8df_l4lyz_5al4l.json",
+      "route": "/videos/v/john-mcenroe-does-voice-over-now-zpk5h-8j8df-l4lyz-5al4l",
+      "url": "https://www.cmasf.com/videos/v/john-mcenroe-does-voice-over-now-zpk5h-8j8df-l4lyz-5al4l?categoryId=68cc47ae6494c83817f92455",
+      "title": "California Martial Athletics | Muay Thai Training Academy | CMA SF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_mrs8zf8ea72s3t2hkxl56r7datztwb.json",
+      "route": "/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb",
+      "url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "title": "2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_planet_earth_mejnx_gxhec_h2w7n_kb69s.json",
+      "route": "/videos/v/planet-earth-mejnx-gxhec-h2w7n-kb69s",
+      "url": "https://www.cmasf.com/videos/v/planet-earth-mejnx-gxhec-h2w7n-kb69s?categoryId=68cc47ae6494c83817f92455",
+      "title": "California Martial Athletics | Gym Walkthrough | CMA SF — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_saturday_morning_flow_z3pnh_gntkw_kc739.json",
+      "route": "/videos/v/saturday-morning-flow-z3pnh-gntkw-kc739",
+      "url": "https://www.cmasf.com/videos/v/saturday-morning-flow-z3pnh-gntkw-kc739?categoryId=68cc47ae6494c83817f9245a",
+      "title": "Off-Balancing Techniques from the Clinch | CMA Technique of the Month - May 2023 — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_sunday_morning_flow_s7dfn_pm5lp_rw2px.json",
+      "route": "/videos/v/sunday-morning-flow-s7dfn-pm5lp-rw2px",
+      "url": "https://www.cmasf.com/videos/v/sunday-morning-flow-s7dfn-pm5lp-rw2px?categoryId=68cc47ae6494c83817f9245a",
+      "title": "5 Punch Combos | CMA Technique of the Month - November 2023 — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/P_ryl8-jems/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_videos_v_thursday_morning_flow_9gnph_njgxp_37sg2.json",
+      "route": "/videos/v/thursday-morning-flow-9gnph-njgxp-37sg2",
+      "url": "https://www.cmasf.com/videos/v/thursday-morning-flow-9gnph-njgxp-37sg2?categoryId=68cc47ae6494c83817f9245a",
+      "title": "Clinch Defense | CMA Technique of the Month - March 2023 — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+          "alt": "Related Embedded Video Item Thumbnail",
+          "purpose": "general"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    },
+    {
+      "source": "www_cmasf_com_youth_program.json",
+      "route": "/youth-program",
+      "url": "https://www.cmasf.com/youth-program",
+      "title": "Youth Program — California Martial Athletics",
+      "assets": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+          "alt": "California Martial Athletics",
+          "purpose": "logo"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/bbd67928-e699-4650-8a91-9f0724eaa58d/brandon%2C+jj.jpg",
+          "alt": "",
+          "purpose": "hero"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/6b2e3108-32e9-42ec-92ef-a3e98d7192ca/Somo.jpg",
+          "alt": "",
+          "purpose": "content"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+          "alt": "",
+          "purpose": "content"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/2dbda022-175d-4af5-bd00-c6ae5c65e3aa/CMASF-10.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/27cb7b4b-a24e-41b6-ad01-72e72da21e10/CMA-2024-Promo-02.00_01_21_06.Still010.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c5e794d1-e22b-4820-8068-25422364d37e/TBA+logo.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ca377844-d071-4374-b110-832d5f4f7a51/CMASF-05.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c05910c8-64f5-44b9-b451-c6599dd74555/CMASF-Image-04.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/116d857e-2389-433e-83b1-422031bb1bad/CMASF-Image-08.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/9768b2db-b131-41ce-b173-777c11aa7cab/CMASF-Image-06.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/15534db7-7316-43c1-9eb9-3328410be416/CMASF-Image-10.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/55b6bdef-7b1c-40ab-ac7d-bbc74f287bc4/o+%282%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/531b19c1-73e1-4fd3-a8e5-14507c8cf132/o+%282%29_edited.png",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d4c437ae-0570-4e2c-bf56-f1f44ade00c7/Screenshot+at+May+09+17-31-07.png",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/7da0e3ff-b1f2-4412-a9a3-08d585c3be68/tina.png",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ba8b2e4a-9b78-4326-93d7-cb2d5a7e5045/598790196_715266074991087_7733371902715294531_n.png",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/7449a298-4e98-4920-a5b9-f12b7b3cee96/Screenshot+at+Apr+30+21-15-08.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/81756fff-f04a-40ba-a6d8-5099f9e4826f/lindsay.png",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d6d90c48-f0cd-444d-9f99-fbb66b365246/Screenshot+at+May+09+17-31-07.png",
+    "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/c6410542-5240-4ff9-bf34-bfd8a71da714/thumbnail",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/cfe447cf-260c-4746-ba88-74b57d85edc1/IMG_4860.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ab1cbaa1-3681-482c-b0b4-0e25a2ddcda4/tina.png",
+    "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/thumbnail",
+    "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/4bffb157-2e2f-4e40-a505-9804c500d215/thumbnail",
+    "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+    "https://i.ytimg.com/vi/F_v4d9Z3J_g/hqdefault.jpg",
+    "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+    "https://i.ytimg.com/vi/P_ryl8-jems/hqdefault.jpg",
+    "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+    "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+    "https://i.ytimg.com/vi/ut5A-6jBiIE/hqdefault.jpg",
+    "https://i.ytimg.com/vi/Nvfk8jb7hZ4/hqdefault.jpg",
+    "https://i.ytimg.com/vi/ogvw7mdCHao/hqdefault.jpg",
+    "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+    "https://i.ytimg.com/vi/O3spDkgnPsU/hqdefault.jpg",
+    "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+    "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+    "https://i.ytimg.com/vi/PXe_nwni2SQ/hqdefault.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/bbd67928-e699-4650-8a91-9f0724eaa58d/brandon%2C+jj.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/6b2e3108-32e9-42ec-92ef-a3e98d7192ca/Somo.jpg"
+  ]
+}

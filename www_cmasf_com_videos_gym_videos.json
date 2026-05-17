@@ -1,0 +1,965 @@
+{
+  "page": {
+    "url": "https://www.cmasf.com/videos/gym-videos",
+    "title": "Gym Videos — Videos — California Martial Athletics",
+    "meta_description": "",
+    "canonical": "https://www.cmasf.com/videos",
+    "crawl_timestamp": "2026-05-08T21:28:38.233Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "Squarespace"
+    ],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.cmasf.com/videos/gym-videos",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275718253,
+          "endTime": 1778275718722,
+          "duration": 469
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275706689&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=9&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115938466~115938469~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fmuay-thai-coach-lindsay-bowering&dt=Coach%20Lindsay%20Bowering%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&epn.percent_scrolled=90&_et=6896&tfd=12611",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275706689&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=9&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=3&tag_exp=0~115938466~115938469~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fmuay-thai-coach-lindsay-bowering&dt=Coach%20Lindsay%20Bowering%20%E2%80%94%20California%20Martial%20Athletics&en=user_engagement&_et=4539&tfd=12613",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://performance.squarespace.com/api/v1/records",
+        "method": "POST",
+        "status": 0,
+        "type": "ping",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Anton:ital,wght@0,400",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718828,
+          "endTime": 1778275719153,
+          "duration": 325
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718829,
+          "endTime": 1778275718834,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-a38266454b6c35f7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718837,
+          "endTime": 1778275718840,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-32c062409c718299-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718842,
+          "endTime": 1778275718847,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f2a1f6ec9a41489-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718848,
+          "endTime": 1778275718851,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-497d1337e70309e7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718852,
+          "endTime": 1778275718854,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718855,
+          "endTime": 1778275718860,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-a5542c2814272dd7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718860,
+          "endTime": 1778275718866,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-6a459dad7444b31d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718867,
+          "endTime": 1778275718870,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-cd17439efa931e38-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718870,
+          "endTime": 1778275718901,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718901,
+          "endTime": 1778275718904,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-322f9d2d9aca764c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718905,
+          "endTime": 1778275718909,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718910,
+          "endTime": 1778275718913,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-c704c05d211c44da-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718913,
+          "endTime": 1778275718917,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718917,
+          "endTime": 1778275718960,
+          "duration": 43
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718961,
+          "endTime": 1778275718965,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718965,
+          "endTime": 1778275718969,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718970,
+          "endTime": 1778275718984,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.shared.constants.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718985,
+          "endTime": 1778275718988,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-film-grain.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718989,
+          "endTime": 1778275718997,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-parallax.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275718998,
+          "endTime": 1778275719035,
+          "duration": 37
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719036,
+          "endTime": 1778275719040,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-lines.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719046,
+          "endTime": 1778275719051,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-liquid.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719052,
+          "endTime": 1778275719065,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719066,
+          "endTime": 1778275719072,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/748.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719072,
+          "endTime": 1778275719081,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/8018.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719082,
+          "endTime": 1778275719087,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/9882.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719087,
+          "endTime": 1778275719095,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-circles.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719095,
+          "endTime": 1778275719100,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719100,
+          "endTime": 1778275719103,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719104,
+          "endTime": 1778275719112,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-7P06BER3QJ",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719113,
+          "endTime": 1778275719137,
+          "duration": 24
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719138,
+          "endTime": 1778275719141,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.24618f321442829cf50ddb341e64781c.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719142,
+          "endTime": 1778275719146,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719213,
+          "endTime": 1778275719217,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719218,
+          "endTime": 1778275719222,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719222,
+          "endTime": 1778275719227,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719228,
+          "endTime": 1778275719230,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719231,
+          "endTime": 1778275719335,
+          "duration": 104
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719232,
+          "endTime": 1778275719240,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/F_v4d9Z3J_g/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719232,
+          "endTime": 1778275719304,
+          "duration": 72
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719232,
+          "endTime": 1778275719332,
+          "duration": 100
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719232,
+          "endTime": 1778275719247,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719232,
+          "endTime": 1778275719234,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/lessons-list.75c585b6b69291f2f304.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719336,
+          "endTime": 1778275719470,
+          "duration": 134
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/lesson-image-load.0f4cf4304b73003b64a7.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719336,
+          "endTime": 1778275719475,
+          "duration": 139
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/43300-6442d5ae90c0ccb6-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719367,
+          "endTime": 1778275719370,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/99209-ed42d6036eafac89-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719371,
+          "endTime": 1778275719376,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12354-ac811bfab2447453-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719377,
+          "endTime": 1778275719383,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/37231-b90ed72cfa0f5072-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719384,
+          "endTime": 1778275719397,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12358-0ae5b672dfcacd40-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719397,
+          "endTime": 1778275719402,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/3035-374c796a798aaa41-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719402,
+          "endTime": 1778275719407,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/74046-0d40c36239df921a-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719408,
+          "endTime": 1778275719414,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/66796-9fe127d3a552e6ed-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719415,
+          "endTime": 1778275719420,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/19085-081d931e05f25f02-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719421,
+          "endTime": 1778275719433,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25023-b37a71babab7d09c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719433,
+          "endTime": 1778275719438,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/21865-9dc113bff3afcc9d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719441,
+          "endTime": 1778275719453,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719454,
+          "endTime": 1778275719457,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-f64ce2acc9cb4662-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719457,
+          "endTime": 1778275719464,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/RecordHit",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719465,
+          "endTime": 1778275719620,
+          "duration": 155
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.333bd5aee1885e7af603.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275719492,
+          "endTime": 1778275719495,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275718807&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115616985~115938466~115938469~118463261~118719170&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fvideos%2Fgym-videos&dt=Gym%20Videos%20%E2%80%94%20Videos%20%E2%80%94%20California%20Martial%20Athletics&en=page_view&_ee=1&gap.plf=2&tfd=4826",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275723099,
+          "endTime": 1778275723476,
+          "duration": 377
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.cmasf.com",
+      "region1.google-analytics.com",
+      "performance.squarespace.com",
+      "fonts.googleapis.com",
+      "assets.squarespace.com",
+      "definitions.sqspcdn.com",
+      "static1.squarespace.com",
+      "www.googletagmanager.com",
+      "images.squarespace-cdn.com",
+      "fonts.gstatic.com",
+      "i.ytimg.com"
+    ],
+    "aggregates": {
+      "total_requests": 66,
+      "by_type": {
+        "document": 1,
+        "fetch": 3,
+        "ping": 1,
+        "stylesheet": 9,
+        "script": 40,
+        "image": 7,
+        "font": 4,
+        "xhr": 1
+      },
+      "failed": 3,
+      "avg_response_time": 34.72727272727273
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 489,
+    "max_depth": 19,
+    "script_counts": {
+      "inline": 18,
+      "external": 26,
+      "async": 1,
+      "defer": 25,
+      "blocking": 0
+    },
+    "blocking_resources": [
+      "https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Anton:ital,wght@0,400",
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+      "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+      "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Skip to Content About Schedule Youth Program FAQs Contact Skip to Videos All Gym Videos Fight Videos Instructional Videos Gym Videos California Martial Athletics | Muay Thai Training Academy | CMA SF Gym Videos California Martial Athletics | Gym Walkthrough | CMA SF Gym Videos ZAE BRYANT MARTINEZ | CMASF Gym Videos California Martial Athletics | CMA SF Gym Videos POONTARIKA \"SOMO\" POWELL | CMASF Schedule About Newsletter Pricing FAQ s hello@cmasf.com I ‍  ‍ (415) 359-9294 ‍   ‍ 1217 Polk,  San Francisco",
+    "headings": [
+      {
+        "level": "h4",
+        "text": "California Martial Athletics | Muay Thai Training Academy | CMA SF"
+      },
+      {
+        "level": "h4",
+        "text": "California Martial Athletics | Gym Walkthrough | CMA SF"
+      },
+      {
+        "level": "h4",
+        "text": "ZAE BRYANT MARTINEZ | CMASF"
+      },
+      {
+        "level": "h4",
+        "text": "California Martial Athletics | CMA SF"
+      },
+      {
+        "level": "h4",
+        "text": "POONTARIKA \"SOMO\" POWELL | CMASF"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "About",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Open Menu\n    Close Menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "gallery",
+      "secondary": [
+        "programs",
+        "schedule",
+        "pricing"
+      ]
+    },
+    "hierarchy_summary": "      h4: California Martial Athletics | Muay Thai Training Academy | CMA SF\n      h4: California Martial Athletics | Gym Walkthrough | CMA SF\n      h4: ZAE BRYANT MARTINEZ | CMASF\n      h4: California Martial Athletics | CMA SF\n      h4: POONTARIKA \"SOMO\" POWELL | CMASF"
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "California Martial Athletics",
+      "surrounding_text": "California Martial Athletics",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "California Martial Athletics | Muay Thai Training Academy | CMA SF",
+      "surrounding_text": "California Martial Athletics | Muay Thai Training Academy | CMA SF",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "California Martial Athletics | Gym Walkthrough | CMA SF",
+      "surrounding_text": "California Martial Athletics | Gym Walkthrough | CMA SF",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/F_v4d9Z3J_g/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "ZAE BRYANT MARTINEZ | CMASF",
+      "surrounding_text": "ZAE BRYANT MARTINEZ | CMASF",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/S07WORizeUM/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "California Martial Athletics | CMA SF",
+      "surrounding_text": "California Martial Athletics | CMA SF",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/zGcsrPU6Sjk/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "POONTARIKA \"SOMO\" POWELL | CMASF",
+      "surrounding_text": "POONTARIKA \"SOMO\" POWELL | CMASF",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+      "page_url": "https://www.cmasf.com/videos/gym-videos",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

@@ -1,0 +1,1694 @@
+{
+  "page": {
+    "url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+    "title": "Coach Tina Carter — California Martial Athletics",
+    "meta_description": "",
+    "canonical": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+    "crawl_timestamp": "2026-05-08T21:27:30.475Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "Squarespace"
+    ],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275650500,
+          "endTime": 1778275650922,
+          "duration": 422
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275626248&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=2&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115616986~115938466~115938468~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fmuay-thai-coach-brandon-lydick&dt=Coach%20Brandon%20Lydick%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&epn.percent_scrolled=90&_et=21705&tfd=25523",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275626248&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=2&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=3&tag_exp=0~115616986~115938466~115938468~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fmuay-thai-coach-brandon-lydick&dt=Coach%20Brandon%20Lydick%20%E2%80%94%20California%20Martial%20Athletics&en=user_engagement&_et=2331&tfd=25528",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://performance.squarespace.com/api/v1/records",
+        "method": "POST",
+        "status": 0,
+        "type": "ping",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Anton:ital,wght@0,400&family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651043,
+          "endTime": 1778275651308,
+          "duration": 265
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651043,
+          "endTime": 1778275651045,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-a38266454b6c35f7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651045,
+          "endTime": 1778275651047,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-32c062409c718299-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651047,
+          "endTime": 1778275651049,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f2a1f6ec9a41489-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651049,
+          "endTime": 1778275651051,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-497d1337e70309e7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651053,
+          "endTime": 1778275651055,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651055,
+          "endTime": 1778275651070,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-a5542c2814272dd7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651073,
+          "endTime": 1778275651074,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-6a459dad7444b31d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651075,
+          "endTime": 1778275651076,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-cd17439efa931e38-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651077,
+          "endTime": 1778275651085,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651141,
+          "endTime": 1778275651143,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-322f9d2d9aca764c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651143,
+          "endTime": 1778275651145,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651155,
+          "endTime": 1778275651157,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-c704c05d211c44da-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651157,
+          "endTime": 1778275651159,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651168,
+          "endTime": 1778275651171,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651171,
+          "endTime": 1778275651174,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651174,
+          "endTime": 1778275651176,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/website.components.video.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651177,
+          "endTime": 1778275651178,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651179,
+          "endTime": 1778275651181,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-parallax.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651209,
+          "endTime": 1778275651211,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651211,
+          "endTime": 1778275651214,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-liquid.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651214,
+          "endTime": 1778275651216,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/website.components.video.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651216,
+          "endTime": 1778275651226,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/748.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651227,
+          "endTime": 1778275651230,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/8018.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651230,
+          "endTime": 1778275651232,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651233,
+          "endTime": 1778275651238,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.shared.constants.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651238,
+          "endTime": 1778275651241,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-film-grain.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651241,
+          "endTime": 1778275651244,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/4032.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651245,
+          "endTime": 1778275651247,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-lines.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651248,
+          "endTime": 1778275651250,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651251,
+          "endTime": 1778275651253,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/9882.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651254,
+          "endTime": 1778275651257,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-circles.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651258,
+          "endTime": 1778275651260,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651261,
+          "endTime": 1778275651264,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651265,
+          "endTime": 1778275651275,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651287,
+          "endTime": 1778275651293,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-7P06BER3QJ",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651293,
+          "endTime": 1778275651295,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651296,
+          "endTime": 1778275651299,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.24618f321442829cf50ddb341e64781c.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651300,
+          "endTime": 1778275651301,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651309,
+          "endTime": 1778275651321,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651322,
+          "endTime": 1778275651324,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651325,
+          "endTime": 1778275651328,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651329,
+          "endTime": 1778275651331,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ab1cbaa1-3681-482c-b0b4-0e25a2ddcda4/tina.png?format=500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651332,
+          "endTime": 1778275651896,
+          "duration": 564
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651332,
+          "endTime": 1778275651340,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.333bd5aee1885e7af603.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651650,
+          "endTime": 1778275651658,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/43300-6442d5ae90c0ccb6-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651712,
+          "endTime": 1778275651715,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/99209-ed42d6036eafac89-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651717,
+          "endTime": 1778275651720,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12354-ac811bfab2447453-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651738,
+          "endTime": 1778275651740,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/37231-b90ed72cfa0f5072-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651741,
+          "endTime": 1778275651743,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12358-0ae5b672dfcacd40-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651744,
+          "endTime": 1778275651746,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/3035-374c796a798aaa41-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651746,
+          "endTime": 1778275651754,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/74046-0d40c36239df921a-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651754,
+          "endTime": 1778275651757,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/66796-9fe127d3a552e6ed-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651757,
+          "endTime": 1778275651759,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/19085-081d931e05f25f02-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651760,
+          "endTime": 1778275651763,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25023-b37a71babab7d09c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651764,
+          "endTime": 1778275651765,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/21865-9dc113bff3afcc9d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651766,
+          "endTime": 1778275651773,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651774,
+          "endTime": 1778275651776,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-f64ce2acc9cb4662-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651776,
+          "endTime": 1778275651778,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25134-a20127834bf520d7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651779,
+          "endTime": 1778275651781,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-editor-render-form-ff851040cbd40bc9-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651781,
+          "endTime": 1778275651783,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/RecordHit",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275651783,
+          "endTime": 1778275652696,
+          "duration": 913
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise.js?onload=__grecaptchaOnLoadCallback&render=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275652670,
+          "endTime": 1778275652672,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/playlist.m3u8",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275652682,
+          "endTime": 1778275653216,
+          "duration": 534
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/thumbnail",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275652697,
+          "endTime": 1778275652867,
+          "duration": 170
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275652728,
+          "endTime": 1778275652933,
+          "duration": 205
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cuY21hc2YuY29tOjQ0Mw..&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=invisible&anchor-ms=20000&execute-ms=30000&cb=9cdmfdc5otxo",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275653064,
+          "endTime": 1778275653283,
+          "duration": 219
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/80587-643c00762d7ff0ee-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653091,
+          "endTime": 1778275653094,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/62059-e98f38e29caaaf8b-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653097,
+          "endTime": 1778275653098,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/45475-3dacbff1735c2c3f-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653099,
+          "endTime": 1778275653101,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/40843-541f4c3b7e5425c3-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653124,
+          "endTime": 1778275653126,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/15951-37591bdeb6da0a78-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653130,
+          "endTime": 1778275653132,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/34895-8db5b14a22ca77fb-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653132,
+          "endTime": 1778275653134,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/65157-ac7d999a378150db-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653135,
+          "endTime": 1778275653137,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653138,
+          "endTime": 1778275653140,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-visitor-form-rendering-244e943e2ce54a90-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653140,
+          "endTime": 1778275653145,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/form-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653145,
+          "endTime": 1778275653784,
+          "duration": 639
+        }
+      },
+      {
+        "url": "blob:https://www.cmasf.com/1f12b17f-8464-481a-8d58-3f7aeed57eb3",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653218,
+          "endTime": 1778275653251,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920.m3u8?Expires=1778318853&Signature=ZWNkMGUwZDdjZjVhMjZkMTliOTgzYzIyNmI3NjcyYzVlYTQxMTEwMWMxZjNlMTU5OTU3NWYyNzM2ODE2NTdiMw",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653252,
+          "endTime": 1778275653845,
+          "duration": 593
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und.m3u8?Expires=1778318853&Signature=ZWNkMGUwZDdjZjVhMjZkMTliOTgzYzIyNmI3NjcyYzVlYTQxMTEwMWMxZjNlMTU5OTU3NWYyNzM2ODE2NTdiMw",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653252,
+          "endTime": 1778275653840,
+          "duration": 588
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/styles__ltr.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653314,
+          "endTime": 1778275653316,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653322,
+          "endTime": 1778275653467,
+          "duration": 145
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/key/109dc3450950cdf2c9e17a790516ebd3d678d92d57c65e7d898f447ecc045ba8",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653845,
+          "endTime": 1778275654392,
+          "duration": 547
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653845,
+          "endTime": 1778275654404,
+          "duration": 559
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653846,
+          "endTime": 1778275654391,
+          "duration": 545
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653846,
+          "endTime": 1778275654060,
+          "duration": 214
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653887,
+          "endTime": 1778275653892,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653893,
+          "endTime": 1778275653895,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275653895,
+          "endTime": 1778275653897,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "other",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275654060,
+          "endTime": 1778275654744,
+          "duration": 684
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275651050&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115616986~115938466~115938468~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fmuay-thai-coach-tina-carter&dt=Coach%20Tina%20Carter%20%E2%80%94%20California%20Martial%20Athletics&en=page_view&_ee=1&tfd=6508",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275657116,
+          "endTime": 1778275657303,
+          "duration": 187
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275657117,
+          "endTime": 1778275657263,
+          "duration": 146
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275657229,
+          "endTime": 1778275657384,
+          "duration": 155
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275657317,
+          "endTime": 1778275657493,
+          "duration": 176
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275657840,
+          "endTime": 1778275658057,
+          "duration": 217
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275657840,
+          "endTime": 1778275657985,
+          "duration": 145
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275659045,
+          "endTime": 1778275659213,
+          "duration": 168
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275659045,
+          "endTime": 1778275659182,
+          "duration": 137
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275660304,
+          "endTime": 1778275660491,
+          "duration": 187
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275660459,
+          "endTime": 1778275661019,
+          "duration": 560
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275662229,
+          "endTime": 1778275662311,
+          "duration": 82
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275664015,
+          "endTime": 1778275664242,
+          "duration": 227
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275664078,
+          "endTime": 1778275664446,
+          "duration": 368
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275664927,
+          "endTime": 1778275665209,
+          "duration": 282
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275664944,
+          "endTime": 1778275665053,
+          "duration": 109
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275667098,
+          "endTime": 1778275667274,
+          "duration": 176
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275667099,
+          "endTime": 1778275667206,
+          "duration": 107
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275668894,
+          "endTime": 1778275669068,
+          "duration": 174
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275669025,
+          "endTime": 1778275669569,
+          "duration": 544
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275669984,
+          "endTime": 1778275670236,
+          "duration": 252
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275670056,
+          "endTime": 1778275670217,
+          "duration": 161
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275670906,
+          "endTime": 1778275670955,
+          "duration": 49
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275670906,
+          "endTime": 1778275671183,
+          "duration": 277
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275672628,
+          "endTime": 1778275672933,
+          "duration": 305
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275672651,
+          "endTime": 1778275672762,
+          "duration": 111
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-h264-1080:1920",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275674242,
+          "endTime": 1778275674388,
+          "duration": 146
+        }
+      },
+      {
+        "url": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/segments/mpegts-aac-1-und",
+        "method": "GET",
+        "status": 206,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275674292,
+          "endTime": 1778275674357,
+          "duration": 65
+        }
+      },
+      {
+        "url": "https://clanker-events.squarespace.com/api/v1/clanker/events",
+        "method": "POST",
+        "status": 200,
+        "type": "ping",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275679574,
+          "endTime": 1778275680180,
+          "duration": 606
+        }
+      },
+      {
+        "url": "https://clanker-events.squarespace.com/api/v1/clanker/events",
+        "method": "POST",
+        "status": 200,
+        "type": "ping",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275679815,
+          "endTime": 1778275680198,
+          "duration": 383
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.cmasf.com",
+      "region1.google-analytics.com",
+      "performance.squarespace.com",
+      "fonts.googleapis.com",
+      "assets.squarespace.com",
+      "definitions.sqspcdn.com",
+      "static1.squarespace.com",
+      "www.googletagmanager.com",
+      "images.squarespace-cdn.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "video.squarespace-cdn.com",
+      "www.gstatic.com",
+      "",
+      "clanker-events.squarespace.com"
+    ],
+    "aggregates": {
+      "total_requests": 123,
+      "by_type": {
+        "document": 2,
+        "fetch": 3,
+        "ping": 3,
+        "stylesheet": 13,
+        "script": 55,
+        "image": 5,
+        "font": 6,
+        "xhr": 35,
+        "other": 1
+      },
+      "failed": 3,
+      "avg_response_time": 118.51219512195122
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 716,
+    "max_depth": 27,
+    "script_counts": {
+      "inline": 21,
+      "external": 31,
+      "async": 3,
+      "defer": 28,
+      "blocking": 0
+    },
+    "blocking_resources": [
+      "https://fonts.googleapis.com/css2?family=Anton:ital,wght@0,400&family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700",
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/6a2c9905-a8ae-44bd-a6af-a4865786c86e_278/website.components.video.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+      "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+      "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Skip to Content About Schedule Youth Program FAQs Contact < back Muay Thai Coach Tina Play 00:00 01:21 Mute Enter fullscreen % buffered Competition Experience: Amateur fights: 3 Semi-Contact Matches (MDL/PKB): 15 Coaching Experience: 5+ years of Muay Thai coaching at CMA Assistant coach of beginners program and entry level competition team Tina discovered Muay Thai at 29 while living in New Zealand, and quickly became passionate about the sport, training six days a week and participating in her first fight within a year. Her journey in Muay Thai, transcending her experiences in running, team sports, and rock climbing, significantly boosted her overall fitness, confidence, and self-imposed physical boundaries. This practice not only enhanced her body awareness and strength but also deepened her appreciation for the community, skill, dedication, and the art of Muay Thai itself. Along her journey, Tina formed some of her most meaningful relationships and personal accomplishments. As a lifelong practitioner, she is committed to sharing the beauty and benefits of Muay Thai with people from diverse backgrounds. Available for Private Coaching Name First Name (required) Last Name (required) Phone Email (required) Message (required) Submit Schedule About Newsletter Pricing FAQ s hello@cmasf.com I ‍  ‍ (415) 359-9294 ‍   ‍ 1217 Polk,  San Francisco",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Muay Thai Coach Tina"
+      },
+      {
+        "level": "h2",
+        "text": "Available for Private Coaching"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "About",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Open Menu\n    Close Menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Play",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "UnmuteMute",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Settings",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "SpeedNormal",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "SpeedGo back to previous menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "0.5x",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "0.75x",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Normal",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "1.25x",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "1.5x",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "1.75x",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "2x",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Exit fullscreenEnter fullscreen",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "SubmitSubmit",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "instructors",
+        "contact",
+        "schedule"
+      ]
+    },
+    "hierarchy_summary": "h1: Muay Thai Coach Tina\n  h2: Available for Private Coaching"
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+      "page_url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+      "alt": "California Martial Athletics",
+      "surrounding_text": "California Martial Athletics",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/ab1cbaa1-3681-482c-b0b4-0e25a2ddcda4/tina.png",
+      "page_url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+      "page_url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    },
+    {
+      "src": "https://video.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/d0998b4d-085c-4d32-8752-3b5b9f7eb9e6/thumbnail",
+      "page_url": "https://www.cmasf.com/muay-thai-coach-tina-carter",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

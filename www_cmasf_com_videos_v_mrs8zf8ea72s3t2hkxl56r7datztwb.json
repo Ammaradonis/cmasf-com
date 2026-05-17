@@ -1,0 +1,1209 @@
+{
+  "page": {
+    "url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+    "title": "2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber — California Martial Athletics",
+    "meta_description": "",
+    "canonical": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb",
+    "crawl_timestamp": "2026-05-08T21:33:10.432Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "Squarespace"
+    ],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275990479,
+          "endTime": 1778275991250,
+          "duration": 771
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275990479,
+          "endTime": 1778275990643,
+          "duration": 164
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275979391&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115938466~115938468~118463262~118494634&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fvideos%2Fv%2F772lsj39f5h4gc6zpb42rdtsdmm9wp%3FcategoryId%3D68cc47ae6494c83817f92450&dt=POONTARIKA%20%22SOMO%22%20POWELL%20vs%20Parmida%20%7C%20%23Fairtexfight%20Muaythai%20Extreme%20%7C%20CMA%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&epn.percent_scrolled=90&_et=8345&tfd=12560",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275979391&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=3&tag_exp=0~115938466~115938468~118463262~118494634&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fvideos%2Fv%2F772lsj39f5h4gc6zpb42rdtsdmm9wp%3FcategoryId%3D68cc47ae6494c83817f92450&dt=POONTARIKA%20%22SOMO%22%20POWELL%20vs%20Parmida%20%7C%20%23Fairtexfight%20Muaythai%20Extreme%20%7C%20CMA%20%E2%80%94%20California%20Martial%20Athletics&en=user_engagement&_et=2914&tfd=12562",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://performance.squarespace.com/api/v1/records",
+        "method": "POST",
+        "status": 0,
+        "type": "ping",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=wBtpEUTB2ulrFs_9&ver=2&cmt=0&fs=0&rt=10.369&euri=https%3A%2F%2Fwww.cmasf.com%2F&lact=10467&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=de_DE&cr=AT&len=1136&fexp=v1%2C24004644%2C494890%2C26510701%2C53408%2C34656%2C47716%2C58314%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C69796%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C11038%2C1977%2C13111%2C2977%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C6355%2C5115%2C13160%2C452%2C21068%2C10985%2C24046%2C3305%2C1352%2C954%2C2754%2C9842%2C2932%2C8141%2C1212%2C2195%2C1626%2C8030%2C10591%2C6118%2C7057%2C288%2C1549%2C9514%2C8954%2C2885%2C3682%2C178%2C4508%2C2430%2C3580%2C3%2C369%2C2814%2C2629%2C347%2C1969%2C3773%2C2826%2C22%2C2118%2C7796&feature=oembed&muted=0&docid=ut5A-6jBiIE",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Anton:ital,wght@0,400",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991538,
+          "endTime": 1778275993661,
+          "duration": 2123
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991538,
+          "endTime": 1778275991572,
+          "duration": 34
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-a38266454b6c35f7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991572,
+          "endTime": 1778275991633,
+          "duration": 61
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-32c062409c718299-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991635,
+          "endTime": 1778275991679,
+          "duration": 44
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f2a1f6ec9a41489-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991680,
+          "endTime": 1778275991709,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-497d1337e70309e7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991710,
+          "endTime": 1778275991765,
+          "duration": 55
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991766,
+          "endTime": 1778275991815,
+          "duration": 49
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-a5542c2814272dd7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991816,
+          "endTime": 1778275991854,
+          "duration": 38
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-6a459dad7444b31d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991854,
+          "endTime": 1778275991912,
+          "duration": 58
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-cd17439efa931e38-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991913,
+          "endTime": 1778275991946,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275991947,
+          "endTime": 1778275992004,
+          "duration": 57
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-322f9d2d9aca764c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992005,
+          "endTime": 1778275992127,
+          "duration": 122
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992128,
+          "endTime": 1778275992153,
+          "duration": 25
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-c704c05d211c44da-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992154,
+          "endTime": 1778275992220,
+          "duration": 66
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992221,
+          "endTime": 1778275992249,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992249,
+          "endTime": 1778275992293,
+          "duration": 44
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992293,
+          "endTime": 1778275992341,
+          "duration": 48
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992342,
+          "endTime": 1778275992369,
+          "duration": 27
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.shared.constants.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992369,
+          "endTime": 1778275992428,
+          "duration": 59
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-film-grain.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992428,
+          "endTime": 1778275992514,
+          "duration": 86
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-parallax.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992514,
+          "endTime": 1778275992543,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992544,
+          "endTime": 1778275992582,
+          "duration": 38
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-lines.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992628,
+          "endTime": 1778275992660,
+          "duration": 32
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-liquid.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992660,
+          "endTime": 1778275992692,
+          "duration": 32
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992693,
+          "endTime": 1778275992720,
+          "duration": 27
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/748.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992721,
+          "endTime": 1778275992761,
+          "duration": 40
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/8018.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992762,
+          "endTime": 1778275992863,
+          "duration": 101
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/9882.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992864,
+          "endTime": 1778275992921,
+          "duration": 57
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-circles.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992922,
+          "endTime": 1778275992952,
+          "duration": 30
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275992953,
+          "endTime": 1778275993074,
+          "duration": 121
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993075,
+          "endTime": 1778275993104,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-7P06BER3QJ",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993105,
+          "endTime": 1778275993159,
+          "duration": 54
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993160,
+          "endTime": 1778275993466,
+          "duration": 306
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993466,
+          "endTime": 1778275993730,
+          "duration": 264
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993473,
+          "endTime": 1778275993781,
+          "duration": 308
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993476,
+          "endTime": 1778275993510,
+          "duration": 34
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993511,
+          "endTime": 1778275993846,
+          "duration": 335
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993511,
+          "endTime": 1778275993546,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.24618f321442829cf50ddb341e64781c.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993547,
+          "endTime": 1778275993607,
+          "duration": 60
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993846,
+          "endTime": 1778275993931,
+          "duration": 85
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993932,
+          "endTime": 1778275993976,
+          "duration": 44
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275993977,
+          "endTime": 1778275994012,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994013,
+          "endTime": 1778275994059,
+          "duration": 46
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994060,
+          "endTime": 1778275994111,
+          "duration": 51
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/lessons-item.29020dbaee1d3ca7bde6.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994132,
+          "endTime": 1778275994181,
+          "duration": 49
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/video-embed.6a77a9b1ec2fccecd9ad.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994186,
+          "endTime": 1778275994222,
+          "duration": 36
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/43300-6442d5ae90c0ccb6-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994223,
+          "endTime": 1778275994251,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/99209-ed42d6036eafac89-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994252,
+          "endTime": 1778275994290,
+          "duration": 38
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12354-ac811bfab2447453-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994291,
+          "endTime": 1778275994315,
+          "duration": 24
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/37231-b90ed72cfa0f5072-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994315,
+          "endTime": 1778275994346,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12358-0ae5b672dfcacd40-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994346,
+          "endTime": 1778275994371,
+          "duration": 25
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/3035-374c796a798aaa41-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994372,
+          "endTime": 1778275994395,
+          "duration": 23
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/74046-0d40c36239df921a-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994396,
+          "endTime": 1778275994447,
+          "duration": 51
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/66796-9fe127d3a552e6ed-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994448,
+          "endTime": 1778275994486,
+          "duration": 38
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/19085-081d931e05f25f02-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994486,
+          "endTime": 1778275994506,
+          "duration": 20
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25023-b37a71babab7d09c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994507,
+          "endTime": 1778275994564,
+          "duration": 57
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/21865-9dc113bff3afcc9d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994564,
+          "endTime": 1778275994592,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994593,
+          "endTime": 1778275994626,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-f64ce2acc9cb4662-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994627,
+          "endTime": 1778275994655,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/RecordHit",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994655,
+          "endTime": 1778275994743,
+          "duration": 88
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/ogvw7mdCHao?start=9&feature=oembed",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275994657,
+          "endTime": 1778275994787,
+          "duration": 130
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.333bd5aee1885e7af603.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994657,
+          "endTime": 1778275994707,
+          "duration": 50
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994788,
+          "endTime": 1778275994831,
+          "duration": 43
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994788,
+          "endTime": 1778275994849,
+          "duration": 61
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994788,
+          "endTime": 1778275994890,
+          "duration": 102
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994789,
+          "endTime": 1778275994927,
+          "duration": 138
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994789,
+          "endTime": 1778275994981,
+          "duration": 192
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275994789,
+          "endTime": 1778275995015,
+          "duration": 226
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995016,
+          "endTime": 1778275995196,
+          "duration": 180
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995018,
+          "endTime": 1778275995091,
+          "duration": 73
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995021,
+          "endTime": 1778275995111,
+          "duration": 90
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ogvw7mdCHao/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihcMA8=&rs=AOn4CLBMiwyUcvwhan_IAzgX5jIt5ldlIQ",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995111,
+          "endTime": 1778275995166,
+          "duration": 55
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995196,
+          "endTime": 1778275995292,
+          "duration": 96
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995197,
+          "endTime": 1778275995262,
+          "duration": 65
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/8SUOqiAk-MH1OKtila4XK-CgQbbB4J5_TI6w-hBdJWk4VP9su0QdSFSrmjBOtcUIg0b1KCCBH24=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995197,
+          "endTime": 1778275995228,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995263,
+          "endTime": 1778275995316,
+          "duration": 53
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?ed7WSg",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995322,
+          "endTime": 1778275995362,
+          "duration": 40
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275995327,
+          "endTime": 1778275995391,
+          "duration": 64
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275996172,
+          "endTime": 1778275996381,
+          "duration": 209
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275991408&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=8&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115938466~115938468~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fvideos%2Fv%2Fmrs8zf8ea72s3t2hkxl56r7datztwb%3FcategoryId%3D68cc47ae6494c83817f92450&dt=2022%20WBC%20Muay%20Thai%20Youth%20Games%20%7C%20Poontarika%20%22Somo%22%20Powell%20Vs.%20Ellie%20Harber%20%E2%80%94%20California%20Martial%20Athletics&en=page_view&_ee=1&tfd=6504",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275996980,
+          "endTime": 1778275997311,
+          "duration": 331
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.cmasf.com",
+      "www.youtube.com",
+      "region1.google-analytics.com",
+      "performance.squarespace.com",
+      "fonts.googleapis.com",
+      "assets.squarespace.com",
+      "definitions.sqspcdn.com",
+      "static1.squarespace.com",
+      "www.googletagmanager.com",
+      "images.squarespace-cdn.com",
+      "i.ytimg.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "www.google.com",
+      "yt3.ggpht.com",
+      "jnn-pa.googleapis.com"
+    ],
+    "aggregates": {
+      "total_requests": 87,
+      "by_type": {
+        "document": 2,
+        "xhr": 9,
+        "fetch": 3,
+        "ping": 1,
+        "stylesheet": 11,
+        "script": 45,
+        "image": 10,
+        "font": 6
+      },
+      "failed": 5,
+      "avg_response_time": 103.9080459770115
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 450,
+    "max_depth": 19,
+    "script_counts": {
+      "inline": 18,
+      "external": 26,
+      "async": 1,
+      "defer": 25,
+      "blocking": 0
+    },
+    "blocking_resources": [
+      "https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Anton:ital,wght@0,400",
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+      "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+      "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Skip to Content About Schedule Youth Program FAQs Contact Fight Videos • 9/22/25 2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber Previous POONTARIKA \"SOMO\" POWELL vs Parmida | #Fairtexfight Muaythai Extreme | CMA You Might Also Like FERNANDO GOMEZ vs CARLO ARQUIZA | #MuayThai | CMASF MATHILDA SAVOCCHIA vs JESSALYN LOZA | #A1Combat | #MuayThai | CMASF California Martial Athletics | Gym Walkthrough | CMA SF California Martial Athletics | Muay Thai Training Academy | CMA SF FERNANDO GOMEZ vs ENCHO TIMOTEO | Rising Stars Muay Thai 6 | CMASF Schedule About Newsletter Pricing FAQ s hello@cmasf.com I ‍  ‍ (415) 359-9294 ‍   ‍ 1217 Polk,  San Francisco",
+    "headings": [
+      {
+        "level": "h2",
+        "text": "2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber"
+      },
+      {
+        "level": "h2",
+        "text": "POONTARIKA \"SOMO\" POWELL vs Parmida | #Fairtexfight Muaythai Extreme | CMA"
+      },
+      {
+        "level": "h2",
+        "text": "You Might Also Like"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "About",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Open Menu\n    Close Menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "kids",
+        "schedule",
+        "pricing"
+      ]
+    },
+    "hierarchy_summary": "  h2: 2022 WBC Muay Thai Youth Games | Poontarika \"Somo\" Powell Vs. Ellie Harber\n  h2: POONTARIKA \"SOMO\" POWELL vs Parmida | #Fairtexfight Muaythai Extreme | CMA\n  h2: You Might Also Like"
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "California Martial Athletics",
+      "surrounding_text": "California Martial Athletics",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/vsE4K13hbww/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "Related Embedded Video Item Thumbnail",
+      "surrounding_text": "Related Embedded Video Item Thumbnail",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/cktZZoMWerk/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "Related Embedded Video Item Thumbnail",
+      "surrounding_text": "Related Embedded Video Item Thumbnail",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/P6LALdRQUiw/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "Related Embedded Video Item Thumbnail",
+      "surrounding_text": "Related Embedded Video Item Thumbnail",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/Pdo9ffMpluo/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "Related Embedded Video Item Thumbnail",
+      "surrounding_text": "Related Embedded Video Item Thumbnail",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/BfEYSvPz2Zo/hqdefault.jpg",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "Related Embedded Video Item Thumbnail",
+      "surrounding_text": "Related Embedded Video Item Thumbnail",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+      "page_url": "https://www.cmasf.com/videos/v/mrs8zf8ea72s3t2hkxl56r7datztwb?categoryId=68cc47ae6494c83817f92450",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [
+      "YouTube Embed"
+    ],
+    "other": []
+  }
+}

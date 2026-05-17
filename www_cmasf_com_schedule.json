@@ -1,0 +1,1593 @@
+{
+  "page": {
+    "url": "https://www.cmasf.com/schedule",
+    "title": "Schedule — California Martial Athletics",
+    "meta_description": "",
+    "canonical": "https://www.cmasf.com/schedule",
+    "crawl_timestamp": "2026-05-08T21:25:20.904Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "Squarespace"
+    ],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.cmasf.com/schedule",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275520920,
+          "endTime": 1778275521243,
+          "duration": 323
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275513821&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=17&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115938466~115938469~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fvideos&dt=Videos%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&epn.percent_scrolled=90&_et=4199&tfd=7826",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275513821&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=17&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=3&tag_exp=0~115938466~115938469~118463261&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fvideos&dt=Videos%20%E2%80%94%20California%20Martial%20Athletics&en=user_engagement&_et=2309&tfd=7828",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://performance.squarespace.com/api/v1/records",
+        "method": "POST",
+        "status": 0,
+        "type": "ping",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Anton:ital,wght@0,400&family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521731,
+          "endTime": 1778275521731,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521731,
+          "endTime": 1778275521732,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-a38266454b6c35f7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521732,
+          "endTime": 1778275521732,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-32c062409c718299-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521732,
+          "endTime": 1778275521744,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f2a1f6ec9a41489-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521744,
+          "endTime": 1778275521745,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-497d1337e70309e7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521745,
+          "endTime": 1778275521745,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521746,
+          "endTime": 1778275521746,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-a5542c2814272dd7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521753,
+          "endTime": 1778275521756,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-6a459dad7444b31d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521762,
+          "endTime": 1778275521763,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-cd17439efa931e38-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521763,
+          "endTime": 1778275521773,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521773,
+          "endTime": 1778275521774,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-322f9d2d9aca764c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521774,
+          "endTime": 1778275521774,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521777,
+          "endTime": 1778275521778,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-c704c05d211c44da-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521778,
+          "endTime": 1778275521779,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521779,
+          "endTime": 1778275521779,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/8796c07c-98c4-4ca2-8f87-600ce5eb7826_928/website.components.shape.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521779,
+          "endTime": 1778275521904,
+          "duration": 125
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521793,
+          "endTime": 1778275521908,
+          "duration": 115
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521793,
+          "endTime": 1778275521794,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521794,
+          "endTime": 1778275521824,
+          "duration": 30
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-parallax.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521824,
+          "endTime": 1778275521825,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521825,
+          "endTime": 1778275521831,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/8796c07c-98c4-4ca2-8f87-600ce5eb7826_928/website.components.shape.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521832,
+          "endTime": 1778275521916,
+          "duration": 84
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.map/b47261f3-0538-4fd5-aa5b-a12f2f56f1f1_919/website.components.map.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521832,
+          "endTime": 1778275522016,
+          "duration": 184
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-liquid.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521833,
+          "endTime": 1778275521833,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/748.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521834,
+          "endTime": 1778275521836,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/8018.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521836,
+          "endTime": 1778275521841,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521845,
+          "endTime": 1778275521846,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.shared.constants.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521846,
+          "endTime": 1778275521847,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-film-grain.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521847,
+          "endTime": 1778275521849,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-lines.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521850,
+          "endTime": 1778275521851,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521851,
+          "endTime": 1778275521851,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521852,
+          "endTime": 1778275522028,
+          "duration": 176
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/9882.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521853,
+          "endTime": 1778275521860,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/image-effect-refracted-circles.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521860,
+          "endTime": 1778275521861,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521861,
+          "endTime": 1778275521865,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521866,
+          "endTime": 1778275521867,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-7P06BER3QJ",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521867,
+          "endTime": 1778275521868,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521870,
+          "endTime": 1778275521875,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.24618f321442829cf50ddb341e64781c.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521875,
+          "endTime": 1778275521880,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521909,
+          "endTime": 1778275521909,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521910,
+          "endTime": 1778275521910,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521910,
+          "endTime": 1778275521913,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521913,
+          "endTime": 1778275521914,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275521917,
+          "endTime": 1778275521918,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/7706.89c4bf0f2dd75fdeeefc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522181,
+          "endTime": 1778275522198,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/section-divider.2cf999b0651cf5bf496a.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522198,
+          "endTime": 1778275522220,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/43300-6442d5ae90c0ccb6-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522265,
+          "endTime": 1778275522266,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/99209-ed42d6036eafac89-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522280,
+          "endTime": 1778275522370,
+          "duration": 90
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12354-ac811bfab2447453-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522370,
+          "endTime": 1778275522374,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/37231-b90ed72cfa0f5072-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522379,
+          "endTime": 1778275522379,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12358-0ae5b672dfcacd40-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522380,
+          "endTime": 1778275522382,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/3035-374c796a798aaa41-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522383,
+          "endTime": 1778275522385,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/74046-0d40c36239df921a-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522385,
+          "endTime": 1778275522386,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/66796-9fe127d3a552e6ed-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522395,
+          "endTime": 1778275522398,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/19085-081d931e05f25f02-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522398,
+          "endTime": 1778275522412,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25023-b37a71babab7d09c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522413,
+          "endTime": 1778275522413,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/21865-9dc113bff3afcc9d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522413,
+          "endTime": 1778275522419,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522420,
+          "endTime": 1778275522427,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-f64ce2acc9cb4662-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522427,
+          "endTime": 1778275522428,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25134-a20127834bf520d7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522428,
+          "endTime": 1778275522465,
+          "duration": 37
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-editor-render-form-ff851040cbd40bc9-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522440,
+          "endTime": 1778275522453,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/RecordHit",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522441,
+          "endTime": 1778275522634,
+          "duration": 193
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.333bd5aee1885e7af603.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522476,
+          "endTime": 1778275522477,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?v=3&callback=GoogleMapsApiLoadCallback&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&language=en&region=US",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522697,
+          "endTime": 1778275523091,
+          "duration": 394
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise.js?onload=__grecaptchaOnLoadCallback&render=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522698,
+          "endTime": 1778275522823,
+          "duration": 125
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275522826,
+          "endTime": 1778275524042,
+          "duration": 1216
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523146,
+          "endTime": 1778275523698,
+          "duration": 552
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/common.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523146,
+          "endTime": 1778275523362,
+          "duration": 216
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523146,
+          "endTime": 1778275523367,
+          "duration": 221
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/map.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523146,
+          "endTime": 1778275523247,
+          "duration": 101
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/marker.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523146,
+          "endTime": 1778275523279,
+          "duration": 133
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523418,
+          "endTime": 1778275523418,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/log.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523612,
+          "endTime": 1778275523612,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/onion.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523612,
+          "endTime": 1778275523613,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523633,
+          "endTime": 1778275523756,
+          "duration": 123
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523698,
+          "endTime": 1778275523698,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523698,
+          "endTime": 1778275523703,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=83597",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523824,
+          "endTime": 1778275523824,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119426",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523847,
+          "endTime": 1778275523847,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=58495",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523848,
+          "endTime": 1778275523862,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=22666",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523887,
+          "endTime": 1778275523888,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=117908",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523896,
+          "endTime": 1778275523897,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=47768",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523898,
+          "endTime": 1778275523914,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i654!3i1582!1m4!1m3!1i12!2i654!3i1583!1m4!1m3!1i12!2i655!3i1582!1m4!1m3!1i12!2i655!3i1583!1m4!1m3!1i12!2i656!3i1582!1m4!1m3!1i12!2i656!3i1583!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e3!12m1!5b1!23i46991212!23i47054750&callback=_xdc_._z5zhs7&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=45099",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275523915,
+          "endTime": 1778275523917,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cuY21hc2YuY29tOjQ0Mw..&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=invisible&anchor-ms=20000&execute-ms=30000&cb=9o96mvoobe9q",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275524099,
+          "endTime": 1778275524343,
+          "duration": 244
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/80587-643c00762d7ff0ee-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524144,
+          "endTime": 1778275524177,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/62059-e98f38e29caaaf8b-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524178,
+          "endTime": 1778275524178,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/45475-3dacbff1735c2c3f-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524178,
+          "endTime": 1778275524181,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/40843-541f4c3b7e5425c3-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524181,
+          "endTime": 1778275524182,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/15951-37591bdeb6da0a78-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524182,
+          "endTime": 1778275524187,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/34895-8db5b14a22ca77fb-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524190,
+          "endTime": 1778275524197,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/65157-ac7d999a378150db-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524197,
+          "endTime": 1778275524198,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524198,
+          "endTime": 1778275524198,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-visitor-form-rendering-244e943e2ce54a90-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524202,
+          "endTime": 1778275524445,
+          "duration": 243
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/form-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524202,
+          "endTime": 1778275524500,
+          "duration": 298
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/controls.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524207,
+          "endTime": 1778275524208,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524362,
+          "endTime": 1778275524375,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524376,
+          "endTime": 1778275524377,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524385,
+          "endTime": 1778275524387,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/styles__ltr.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524438,
+          "endTime": 1778275524445,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275524445,
+          "endTime": 1778275524728,
+          "duration": 283
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275525130,
+          "endTime": 1778275525453,
+          "duration": 323
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275525177,
+          "endTime": 1778275525181,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275525181,
+          "endTime": 1778275525186,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275525187,
+          "endTime": 1778275525192,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "other",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275525469,
+          "endTime": 1778275526576,
+          "duration": 1107
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275521551&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=16&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115616986~115938466~115938469~118463262~118494633&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fschedule&dt=Schedule%20%E2%80%94%20California%20Martial%20Athletics&en=page_view&_ee=1&tfd=6508",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275527432,
+          "endTime": 1778275527502,
+          "duration": 70
+        }
+      },
+      {
+        "url": "https://clanker-events.squarespace.com/api/v1/clanker/events",
+        "method": "POST",
+        "status": 200,
+        "type": "ping",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275531845,
+          "endTime": 1778275532929,
+          "duration": 1084
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.cmasf.com",
+      "region1.google-analytics.com",
+      "performance.squarespace.com",
+      "fonts.googleapis.com",
+      "assets.squarespace.com",
+      "definitions.sqspcdn.com",
+      "static1.squarespace.com",
+      "www.googletagmanager.com",
+      "images.squarespace-cdn.com",
+      "fonts.gstatic.com",
+      "maps.googleapis.com",
+      "www.google.com",
+      "www.gstatic.com",
+      "maps.gstatic.com",
+      "clanker-events.squarespace.com"
+    ],
+    "aggregates": {
+      "total_requests": 112,
+      "by_type": {
+        "document": 2,
+        "fetch": 3,
+        "ping": 2,
+        "stylesheet": 15,
+        "script": 66,
+        "image": 12,
+        "font": 7,
+        "xhr": 4,
+        "other": 1
+      },
+      "failed": 3,
+      "avg_response_time": 74.92857142857143
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 1170,
+    "max_depth": 23,
+    "script_counts": {
+      "inline": 26,
+      "external": 40,
+      "async": 3,
+      "defer": 28,
+      "blocking": 9
+    },
+    "blocking_resources": [
+      "https://maps.googleapis.com/maps/api/js?v=3&callback=GoogleMapsApiLoadCallback&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&language=en&region=US",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/common.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/map.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/marker.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/log.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/onion.js",
+      "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i654!3i1582!1m4!1m3!1i12!2i654!3i1583!1m4!1m3!1i12!2i655!3i1582!1m4!1m3!1i12!2i655!3i1583!1m4!1m3!1i12!2i656!3i1582!1m4!1m3!1i12!2i656!3i1583!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e3!12m1!5b1!23i46991212!23i47054750&callback=_xdc_._z5zhs7&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=45099",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/controls.js",
+      "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+      "https://fonts.googleapis.com/css2?family=Anton:ital,wght@0,400&family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700",
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/eec49227-9151-4e51-894c-948249d3e78f_533/website.components.html.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/8796c07c-98c4-4ca2-8f87-600ce5eb7826_928/website.components.shape.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/404ed975-68f8-47a7-ac5c-a389a701daa8_705/website.components.form.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/ff18e480-0c5b-4c28-9a9b-b5cd2faf2628_520/website.components.imageFluid.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7836f8f6-deed-4223-ab2f-1a896bac658e_311/website.components.socialLinks.styles.css",
+      "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+      "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Skip to Content About Schedule Youth Program FAQs Contact SCHEDULE No pre-regristration required. A BEGINNER CLASS IS REQUIRED of everyone in order to meet class standards and curriculum. Contact us by email or phone for a recommended class. Please arrive 5 minutes before class starts to fill out new member paperwork. *Intermediate class requires gloves, shin guards and coach permission **Fighter training and advanced  drilling require coach permission ***No unsupervised sparring without coach approval ****Open gym during all class times Mondays 7:00 - 8:00 AM  | 12:00 - 1:00 PM  | 4:30 - 5:15 PM  | 5:30 - 6:30 PM  | 6:30 - 7:30 PM  | 7:30 - 8:30 PM  | All Levels Muay Thai Beginner Muay Thai Youth Muay Thai All Levels Muay Thai Beginner Muay Thai Intermediate Muay Thai * tuesdays 12:00 - 1:00 PM  | 5:00 - 6:00 PM  | 5:30 - 6:30 PM  | 6:30 - 7:30 PM  | 7:30 - 8:30 PM  | All Levels Muay Thai Open Gym Beginner Muay Thai All Levels Muay Thai Advanced Drilling Wednesdays 7:00 - 8:00 A M  | 12:00 - 1:00 PM  | 4:30 - 5:15 PM  | 5:30 - 6:30 PM  | 6:30 - 7:30 PM  | 7:30 - 8:30 PM  | All Levels Muay Thai Beginner Muay Thai Youth Muay Thai All Levels Muay Thai Beginner Muay Thai Intermediate Muay Thai * Thursdays 12:00 - 1:00 PM  | 4:30 - 5:15 PM  | 5:30 - 6:30 PM  | 6:30 - 7:30 PM  | 7:30 - 8:30 PM  | All Levels Muay Thai Youth Muay Thai Beginner Muay Thai All Levels Muay Thai Advanced Drilling Fridays 7:00 - 8:00 A M  | 12:00 - 1:00 PM  | 4:30 - 5:15 PM  | 5:30 - 6:30 PM  | 6:00 - 7:00 PM  | All Levels Muay Thai All Levels Muay Thai Youth Muay Thai Beginners Muay Thai All Levels Training Saturdays 10:00 - 11:00 A M  | 11:00 - 12:00 P M  | 12:00 - 1:00 PM  | 1:00 - 2:00 PM  | Heavy Bag Cardio Beginner Muay Thai Intermediate Muay Thai* Muay Thai Sparring** Contact us to try a class! 1217 Polk St San Francisco, CA 94109 Email hello@cmasf.com Phone (415) 359-9294 Name First Name (required) Last Name (required) Email (required) Message Send Schedule About Newsletter Pricing FAQ s hello@cmasf.com I ‍  ‍ (415) 359-9294 ‍   ‍ 1217 Polk,  San Francisco",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "SCHEDULE"
+      },
+      {
+        "level": "h2",
+        "text": "Contact us to try a class!"
+      },
+      {
+        "level": "h3",
+        "text": "1217 Polk St San Francisco, CA 94109"
+      },
+      {
+        "level": "h4",
+        "text": "Mondays"
+      },
+      {
+        "level": "h4",
+        "text": "tuesdays"
+      },
+      {
+        "level": "h4",
+        "text": "Wednesdays"
+      },
+      {
+        "level": "h4",
+        "text": "Thursdays"
+      },
+      {
+        "level": "h4",
+        "text": "Fridays"
+      },
+      {
+        "level": "h4",
+        "text": "Saturdays"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "About",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Open Menu\n    Close Menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Keyboard shortcuts",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Map Data",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "2 km Click to toggle between metric and imperial units",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "SendSend",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "schedule",
+        "contact",
+        "trial"
+      ]
+    },
+    "hierarchy_summary": "h1: SCHEDULE\n  h2: Contact us to try a class!\n    h3: 1217 Polk St San Francisco, CA 94109\n      h4: Mondays\n      h4: tuesdays\n      h4: Wednesdays\n      h4: Thursdays\n      h4: Fridays\n      h4: Saturdays"
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "California Martial Athletics",
+      "surrounding_text": "California Martial Athletics",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=83597",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119426",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=58495",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=22666",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=117908",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=47768",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+      "page_url": "https://www.cmasf.com/schedule",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

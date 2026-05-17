@@ -1,0 +1,1586 @@
+{
+  "page": {
+    "url": "https://www.cmasf.com/faqs",
+    "title": "FAQs 1 — California Martial Athletics",
+    "meta_description": "",
+    "canonical": "https://www.cmasf.com/faqs",
+    "crawl_timestamp": "2026-05-08T21:25:46.406Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "Squarespace"
+    ],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.cmasf.com/faqs",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275546474,
+          "endTime": 1778275546656,
+          "duration": 182
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275535078&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=4&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115616986~115938465~115938468~118128922~118463262&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fyouth-program&dt=Youth%20Program%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&epn.percent_scrolled=90&_et=8879&tfd=12085",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275535078&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=4&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=3&tag_exp=0~115616986~115938465~115938468~118128922~118463262&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Fyouth-program&dt=Youth%20Program%20%E2%80%94%20California%20Martial%20Athletics&en=user_engagement&_et=2239&tfd=12086",
+        "method": "POST",
+        "status": 0,
+        "type": "fetch",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://performance.squarespace.com/api/v1/records",
+        "method": "POST",
+        "status": 0,
+        "type": "ping",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Anton:ital,wght@0,400&family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547055,
+          "endTime": 1778275547055,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547056,
+          "endTime": 1778275547071,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-a38266454b6c35f7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547073,
+          "endTime": 1778275547075,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-79ec3ba8c2d2e993-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547080,
+          "endTime": 1778275547081,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f2a1f6ec9a41489-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547090,
+          "endTime": 1778275547091,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-497d1337e70309e7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547095,
+          "endTime": 1778275547096,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-b8d716935110c7b2-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547098,
+          "endTime": 1778275547113,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-a5542c2814272dd7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547115,
+          "endTime": 1778275547123,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/common-777ca6e4c31575f4-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547124,
+          "endTime": 1778275547136,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-a43f56fd033de519-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547136,
+          "endTime": 1778275547137,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547142,
+          "endTime": 1778275547145,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-322f9d2d9aca764c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547150,
+          "endTime": 1778275547155,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547156,
+          "endTime": 1778275547171,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-c704c05d211c44da-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547180,
+          "endTime": 1778275547182,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/664d9fff-86de-4c08-9068-c4e17a580789_305/website.components.socialLinks.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547183,
+          "endTime": 1778275547192,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/website.components.imageFluid.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547194,
+          "endTime": 1778275547207,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/d7667f99-8c47-48a4-ba2e-2e0125c6050b_527/website.components.html.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547208,
+          "endTime": 1778275547222,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/14641084-344b-409c-a225-15c06a478089_699/website.components.form.styles.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547222,
+          "endTime": 1778275547231,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/image-effect-film-grain.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547247,
+          "endTime": 1778275547248,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/image-effect-liquid.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547249,
+          "endTime": 1778275547258,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/image-effect-refracted-lines.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547258,
+          "endTime": 1778275547260,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/website.components.imageFluid.shared.constants.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547261,
+          "endTime": 1778275547267,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/image-effect-parallax.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547267,
+          "endTime": 1778275547284,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/8018.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547288,
+          "endTime": 1778275547306,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/d7667f99-8c47-48a4-ba2e-2e0125c6050b_527/website.components.html.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547306,
+          "endTime": 1778275547307,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/14641084-344b-409c-a225-15c06a478089_699/website.components.form.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547307,
+          "endTime": 1778275547317,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/image-effect-refracted-circles.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547319,
+          "endTime": 1778275547320,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/748.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547331,
+          "endTime": 1778275547337,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.map/bba6eaa2-c940-4e8b-999a-887625a8cfc8_913/website.components.map.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547342,
+          "endTime": 1778275547343,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/664d9fff-86de-4c08-9068-c4e17a580789_305/website.components.socialLinks.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547345,
+          "endTime": 1778275547354,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/9882.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547366,
+          "endTime": 1778275547367,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/website.components.imageFluid.visitor.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547380,
+          "endTime": 1778275547381,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547381,
+          "endTime": 1778275547391,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547391,
+          "endTime": 1778275547400,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-7P06BER3QJ",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547403,
+          "endTime": 1778275547404,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547404,
+          "endTime": 1778275547405,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547470,
+          "endTime": 1778275547480,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547481,
+          "endTime": 1778275547481,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547482,
+          "endTime": 1778275547492,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547493,
+          "endTime": 1778275547494,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif?format=300w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547506,
+          "endTime": 1778275547506,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.24618f321442829cf50ddb341e64781c.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547507,
+          "endTime": 1778275547516,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.333bd5aee1885e7af603.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547644,
+          "endTime": 1778275547648,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/43300-6442d5ae90c0ccb6-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547649,
+          "endTime": 1778275547653,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/99209-ed42d6036eafac89-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547653,
+          "endTime": 1778275547654,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12354-ac811bfab2447453-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547661,
+          "endTime": 1778275547663,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/37231-b90ed72cfa0f5072-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547664,
+          "endTime": 1778275547674,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/12358-0ae5b672dfcacd40-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547674,
+          "endTime": 1778275547675,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/3035-374c796a798aaa41-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547675,
+          "endTime": 1778275547682,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/74046-0d40c36239df921a-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547682,
+          "endTime": 1778275547689,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/66796-9fe127d3a552e6ed-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547695,
+          "endTime": 1778275547696,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/19085-081d931e05f25f02-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547696,
+          "endTime": 1778275547708,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25023-b37a71babab7d09c-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547709,
+          "endTime": 1778275547709,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/21865-9dc113bff3afcc9d-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547710,
+          "endTime": 1778275547722,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547723,
+          "endTime": 1778275547724,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-f64ce2acc9cb4662-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547724,
+          "endTime": 1778275547725,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/25134-a20127834bf520d7-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547731,
+          "endTime": 1778275547732,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-editor-render-form-ff851040cbd40bc9-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547733,
+          "endTime": 1778275547743,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/RecordHit",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547743,
+          "endTime": 1778275547758,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?v=3&callback=GoogleMapsApiLoadCallback&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&language=en&region=US",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547758,
+          "endTime": 1778275547771,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise.js?onload=__grecaptchaOnLoadCallback&render=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547772,
+          "endTime": 1778275547790,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547872,
+          "endTime": 1778275548210,
+          "duration": 338
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/common.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547878,
+          "endTime": 1778275547900,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547900,
+          "endTime": 1778275547913,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/map.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547914,
+          "endTime": 1778275547926,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/marker.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275547927,
+          "endTime": 1778275547938,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548142,
+          "endTime": 1778275548146,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/log.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548211,
+          "endTime": 1778275548290,
+          "duration": 79
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/onion.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548212,
+          "endTime": 1778275548291,
+          "duration": 79
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548224,
+          "endTime": 1778275548231,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548232,
+          "endTime": 1778275548233,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548258,
+          "endTime": 1778275549130,
+          "duration": 872
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548309,
+          "endTime": 1778275548438,
+          "duration": 129
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=83597",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548502,
+          "endTime": 1778275548547,
+          "duration": 45
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119426",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548547,
+          "endTime": 1778275548559,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=58495",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548560,
+          "endTime": 1778275548561,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=22666",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548561,
+          "endTime": 1778275548575,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=117908",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548575,
+          "endTime": 1778275548576,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=47768",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548576,
+          "endTime": 1778275548583,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i654!3i1582!1m4!1m3!1i12!2i654!3i1583!1m4!1m3!1i12!2i655!3i1582!1m4!1m3!1i12!2i655!3i1583!1m4!1m3!1i12!2i656!3i1582!1m4!1m3!1i12!2i656!3i1583!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e3!12m1!5b1!23i46991212!23i47054750&callback=_xdc_._z5zhs7&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=45099",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548638,
+          "endTime": 1778275548641,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/controls.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275548854,
+          "endTime": 1778275548911,
+          "duration": 57
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549031,
+          "endTime": 1778275549060,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549066,
+          "endTime": 1778275549067,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549098,
+          "endTime": 1778275549112,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cuY21hc2YuY29tOjQ0Mw..&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=invisible&anchor-ms=20000&execute-ms=30000&cb=ijdoifx4yxb1",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778275549164,
+          "endTime": 1778275549415,
+          "duration": 251
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/80587-643c00762d7ff0ee-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549199,
+          "endTime": 1778275549416,
+          "duration": 217
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/62059-e98f38e29caaaf8b-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549224,
+          "endTime": 1778275549494,
+          "duration": 270
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/45475-3dacbff1735c2c3f-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549224,
+          "endTime": 1778275549345,
+          "duration": 121
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/40843-541f4c3b7e5425c3-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549224,
+          "endTime": 1778275549507,
+          "duration": 283
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/15951-37591bdeb6da0a78-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549225,
+          "endTime": 1778275549506,
+          "duration": 281
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/34895-8db5b14a22ca77fb-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549225,
+          "endTime": 1778275549509,
+          "duration": 284
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/65157-ac7d999a378150db-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549230,
+          "endTime": 1778275549526,
+          "duration": 296
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549230,
+          "endTime": 1778275549233,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://assets.squarespace.com/universal/scripts-compressed/async-visitor-form-rendering-41e086dbe18c5130-min.en-US.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549239,
+          "endTime": 1778275549262,
+          "duration": 23
+        }
+      },
+      {
+        "url": "https://www.cmasf.com/api/census/form-render",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549243,
+          "endTime": 1778275549593,
+          "duration": 350
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/styles__ltr.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549440,
+          "endTime": 1778275549727,
+          "duration": 287
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275549440,
+          "endTime": 1778275550264,
+          "duration": 824
+        }
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275550673,
+          "endTime": 1778275550838,
+          "duration": 165
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275550728,
+          "endTime": 1778275550815,
+          "duration": 87
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275550729,
+          "endTime": 1778275551138,
+          "duration": 409
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275550733,
+          "endTime": 1778275551140,
+          "duration": 407
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+        "method": "GET",
+        "status": 200,
+        "type": "other",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275550846,
+          "endTime": 1778275551799,
+          "duration": 953
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275546767&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AAAAAAQC&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115616985~115938466~115938468~118463262&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Ffaqs&dt=FAQs%201%20%E2%80%94%20California%20Martial%20Athletics&en=page_view&_ee=1&gap.plf=2&tfd=6107",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275552611,
+          "endTime": 1778275552765,
+          "duration": 154
+        }
+      },
+      {
+        "url": "https://clanker-events.squarespace.com/api/v1/clanker/events",
+        "method": "POST",
+        "status": 200,
+        "type": "ping",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275556793,
+          "endTime": 1778275557065,
+          "duration": 272
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-7P06BER3QJ&gtm=45je6562v9177037843za200zd9177037843&_p=1778275546767&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&gdid=dZjQwMz&_eu=AEAAAAQC&ae=a&are=1&cid=1762657404.1778275431&frm=0&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=0~115616985~115938466~115938468~118463262&sid=1778275431&sct=1&seg=1&dl=https%3A%2F%2Fwww.cmasf.com%2Ffaqs&dt=FAQs%201%20%E2%80%94%20California%20Martial%20Athletics&en=scroll&gap.plf=2&epn.percent_scrolled=90&_et=9434&tfd=15985",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778275562539,
+          "endTime": 1778275562790,
+          "duration": 251
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.cmasf.com",
+      "region1.google-analytics.com",
+      "performance.squarespace.com",
+      "fonts.googleapis.com",
+      "assets.squarespace.com",
+      "definitions.sqspcdn.com",
+      "static1.squarespace.com",
+      "www.googletagmanager.com",
+      "images.squarespace-cdn.com",
+      "fonts.gstatic.com",
+      "maps.googleapis.com",
+      "www.google.com",
+      "maps.gstatic.com",
+      "www.gstatic.com",
+      "clanker-events.squarespace.com"
+    ],
+    "aggregates": {
+      "total_requests": 109,
+      "by_type": {
+        "document": 2,
+        "fetch": 4,
+        "ping": 2,
+        "stylesheet": 14,
+        "script": 63,
+        "image": 12,
+        "font": 7,
+        "xhr": 4,
+        "other": 1
+      },
+      "failed": 3,
+      "avg_response_time": 77.9908256880734
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 837,
+    "max_depth": 23,
+    "script_counts": {
+      "inline": 21,
+      "external": 39,
+      "async": 3,
+      "defer": 27,
+      "blocking": 9
+    },
+    "blocking_resources": [
+      "https://maps.googleapis.com/maps/api/js?v=3&callback=GoogleMapsApiLoadCallback&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&language=en&region=US",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/common.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/map.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/marker.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/log.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/onion.js",
+      "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i654!3i1582!1m4!1m3!1i12!2i654!3i1583!1m4!1m3!1i12!2i655!3i1582!1m4!1m3!1i12!2i655!3i1583!1m4!1m3!1i12!2i656!3i1582!1m4!1m3!1i12!2i656!3i1583!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e3!12m1!5b1!23i46991212!23i47054750&callback=_xdc_._z5zhs7&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=45099",
+      "https://maps.googleapis.com/maps-api-v3/api/js/63/14d/controls.js",
+      "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+      "https://fonts.googleapis.com/css2?family=Anton:ital,wght@0,400&family=Epilogue:ital,wght@0,400;0,600;0,700;1,400;1,700",
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/user-account-core-b31fa72f1ac27a50-min.en-US.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/664d9fff-86de-4c08-9068-c4e17a580789_305/website.components.socialLinks.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/088fcf7c-86dc-41cd-a71e-dde0885f4b95_514/website.components.imageFluid.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/d7667f99-8c47-48a4-ba2e-2e0125c6050b_527/website.components.html.styles.css",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/14641084-344b-409c-a225-15c06a478089_699/website.components.form.styles.css",
+      "https://static1.squarespace.com/static/versioned-site-css/6760c6ee75bd3f22b4060dc4/51/5c5a519771c10ba3470d8101/6760c6ee75bd3f22b4060dce/1780/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1778089882207-IV5GHHG20Y02RIG1FE1F/static.css",
+      "https://assets.squarespace.com/universal/styles-compressed/6d80fa01db20c41f-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/1df1f17c3edc88c0-min.en-US.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Skip to Content About Schedule Youth Program FAQs Contact Frequently Asked Questions Do i need to register for a class before attending? Before your first class, call us at (415) 359-9294 or email hello@cmasf.com so we can direct you to the right class based on your skill level. What do i need for my first class? How much experience do i need for intermediate, advanced and sparring classes? do i need my own equipment for class? how much physical contact is involved? Do you offer private one-on-one sessions? Contact us to try a class! 1217 Polk St San Francisco, CA 94109 Email hello@cmasf.com Phone (415) 359-9294 Name First Name (required) Last Name (required) Email (required) Message Send Schedule About Newsletter Pricing FAQ s hello@cmasf.com I ‍  ‍ (415) 359-9294 ‍   ‍ 1217 Polk,  San Francisco",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": "h2",
+        "text": "Contact us to try a class!"
+      },
+      {
+        "level": "h3",
+        "text": "1217 Polk St San Francisco, CA 94109"
+      },
+      {
+        "level": "h4",
+        "text": "Do i need to register for a class before attending?"
+      },
+      {
+        "level": "h4",
+        "text": "What do i need for my first class?"
+      },
+      {
+        "level": "h4",
+        "text": "How much experience do i need for intermediate, advanced and sparring classes?"
+      },
+      {
+        "level": "h4",
+        "text": "do i need my own equipment for class?"
+      },
+      {
+        "level": "h4",
+        "text": "how much physical contact is involved?"
+      },
+      {
+        "level": "h4",
+        "text": "Do you offer private one-on-one sessions?"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "About",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Open Menu\n    Close Menu",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Do i need to register for a class before attending?",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "What do i need for my first class?",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "How much experience do i need for intermediate, advanced and sparring classes?",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "do i need my own equipment for class?",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "how much physical contact is involved?",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Do you offer private one-on-one sessions?",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Keyboard shortcuts",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Map Data",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "2 km Click to toggle between metric and imperial units",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "SendSend",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.cmasf.com/schedule"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "faq",
+      "secondary": [
+        "trial",
+        "contact",
+        "programs"
+      ]
+    },
+    "hierarchy_summary": "h1: Frequently Asked Questions\n  h2: Contact us to try a class!\n    h3: 1217 Polk St San Francisco, CA 94109\n      h4: Do i need to register for a class before attending?\n      h4: What do i need for my first class?\n      h4: How much experience do i need for intermediate, advanced and sparring classes?\n      h4: do i need my own equipment for class?\n      h4: how much physical contact is involved?\n      h4: Do you offer private one-on-one sessions?"
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/af2e86ae-4f23-4379-8d8a-7b9d355f2b28/CMASF-Logo-05.png?format=1500w",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "California Martial Athletics",
+      "surrounding_text": "California Martial Athletics",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=83597",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119426",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i654!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=58495",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i655!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=22666",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1582!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=117908",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1583!4i256!2m3!1e0!2sm!3i778542434!3m18!2sen!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=47768",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6760c6ee75bd3f22b4060dc4/34200696-a969-467c-9da4-f02b46a60060/CMASF-Logo-02.gif",
+      "page_url": "https://www.cmasf.com/faqs",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "content"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Analytics",
+      "Google Tag Manager"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}
